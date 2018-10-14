@@ -1,0 +1,8 @@
+*.*
+
+!.gitignore
+!*.ass
+
+!*.md
+!*.py
+!*.tex
