@@ -15,105 +15,176 @@ Audio File: 01 Frankenstein - The Modern Prometheus - Extra Sci Fi - #1.mp4
 Video File: 01 Frankenstein - The Modern Prometheus - Extra Sci Fi - #1.mp4
 Video AR Mode: 2
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 95
-Active Line: 103
-Video Position: 5198
+Video Zoom Percent: 0.750000
+Scroll Position: 513
+Active Line: 516
+Video Position: 14315
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: ExtraSciFi - 中文,微软雅黑,45,&H00E3EE76,&H00FFFFFF,&H00020000,&H00050506,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,25,1
+Style: ExtraSciFi - 中文,微软雅黑,50,&H00E3EE76,&H00FFFFFF,&H00020000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,25,1
 Style: ExtraSciFi - EN,Arial,35,&H00A2EDE8,&H00FFFFFF,&H00050506,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,15,1
 Style: 制作人员,微软雅黑,30,&H00FFF075,&H001FDE3B,&H00030403,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,5,10,10,10,1
 Style: 订阅,汉仪乐喵体简,60,&H00B05F37,&H000000FF,&H00DFB853,&H00000000,-1,0,0,0,100,80,0,0,1,0.5,0,2,10,10,10,1
-Style: ExtraSciFi - 引用,华文新魏,45,&H00E3EE76,&H00FFFFFF,&H00020000,&H00050506,-1,0,0,0,95,100,0,0,1,2,1,2,10,10,25,1
-Style: ExtraSciFi - 画面,汉仪尚巍小时候简,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+Style: ExtraSciFi - 引用,华文新魏,50,&H00E3EE76,&H00FFFFFF,&H00020000,&H00050506,-1,0,0,0,95,100,0,0,1,2,1,2,10,10,25,1
+Style: ExtraSciFi - 画面,汉仪乐喵体简,45,&H00070708,&H000000FF,&H00FFFFFF,&H00F7F7F9,-1,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
+Style: ExtraSciFi - 注释,微软雅黑,32,&H00276B34,&H00EEEEF4,&H00F6F6FB,&H00F6F6F7,-1,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.08,0:00:03.11,ExtraSciFi - EN,,0,0,0,,Science fiction begins with Frankenstein.
 Dialogue: 0,0:00:00.08,0:00:03.11,ExtraSciFi - 中文,,0,0,0,,科幻始于《弗兰肯斯坦》
+Dialogue: 0,0:00:00.05,0:00:03.11,ExtraSciFi - 画面,,0,0,0,,{\fs55\c&H655C99&\fn汉仪乐喵体简\pos(864,478)\frz5.567}起点
+Dialogue: 0,0:00:00.05,0:00:03.11,ExtraSciFi - 画面,,0,0,0,,{\fs40\c&H123442&\3c&HE8E8ED&\frz346.8\frx16\fry350\pos(1158.4,255.6)\4c&HF7F7F9&}弗兰肯斯坦
+Dialogue: 0,0:00:00.05,0:00:03.11,ExtraSciFi - 画面,,0,0,0,,{\fs40\c&H123442&\3c&HF5F5F9&\b1\frx16\fry350\frz341.4\pos(1083.2,439.6)\4c&HF7F7F9&}玛丽·雪莱
 Dialogue: 0,0:00:03.11,0:00:08.25,ExtraSciFi - EN,,0,0,0,,So many of the ideas, and the tropes, even the philosophy behind science fiction,
 Dialogue: 0,0:00:03.11,0:00:08.25,ExtraSciFi - 中文,,0,0,0,,科幻背后众多的思想、隐喻甚至是哲学
+Dialogue: 0,0:00:03.11,0:00:05.81,ExtraSciFi - 画面,,0,0,0,,{\fs50\c&H1F176A&\pos(668.8,54)}它活了！
+Dialogue: 0,0:00:03.11,0:00:05.81,ExtraSciFi - 画面,,0,0,0,,{\fs50\c&H1F176A&\pos(753.6,106.8)}它活了！
 Dialogue: 0,0:00:08.27,0:00:10.65,ExtraSciFi - EN,,0,0,0,,come from this one great work.
 Dialogue: 0,0:00:08.27,0:00:10.65,ExtraSciFi - 中文,,0,0,0,,都源自这部伟大的作品
+Dialogue: 0,0:00:05.81,0:00:08.71,ExtraSciFi - 画面,,0,0,0,,{\c&H172438&\frz344.4\frx8\fry8\pos(456,473.2)}安德
+Dialogue: 0,0:00:05.81,0:00:08.71,ExtraSciFi - 画面,,0,0,0,,{\c&H172438&\frz344.4\frx8\fry8\pos(435.2,518)}卡德
+Dialogue: 0,0:00:08.73,0:00:10.64,ExtraSciFi - 画面,,0,0,0,,{\fs40\c&H123442&\frz346.8\frx16\fry350\pos(445.333,360.4)}弗兰肯斯坦
+Dialogue: 0,0:00:08.73,0:00:10.64,ExtraSciFi - 画面,,0,0,0,,{\fs40\c&H123442&\frx16\fry350\frz341.4\pos(396.267,516.667)}玛丽·雪莱
 Dialogue: 0,0:00:10.70,0:00:14.08,ExtraSciFi - EN,,0,0,0,,So let us start where we must, and talk Frankenstein.
 Dialogue: 0,0:00:10.70,0:00:14.08,ExtraSciFi - 中文,,0,0,0,,所以让我们就此开始，谈谈《弗兰肯斯坦》
+Dialogue: 0,0:00:10.65,0:00:14.23,ExtraSciFi - 画面,,0,0,0,,{\c&H6B6D4D&\fs80\b0\fn汉仪尚巍小时候简\bord3\fscx168\fscy112\pos(846.4,289.2)}弗兰肯斯坦
+Dialogue: 0,0:00:10.65,0:00:14.23,ExtraSciFi - 画面,,0,0,0,,{\c&H32544C&\fs80\b0\fn汉仪尚巍小时候简\bord3\fscx168\fscy112\pos(846.4,289.2)\clip(m 569 221 b 569 230 526 262 635 245 666 245 667 249 699 248 731 246 730 236 792 264 812 232 835 248 885 252 866 232 865 239 937 244 975 226 955 259 972 247 990 231 998 255 1022 249 1053 244 1074 230 1152 270 1111 230 1176 261 1159 204)}弗兰肯斯坦
+Dialogue: 0,0:00:10.65,0:00:14.23,ExtraSciFi - 画面,,0,0,0,,{\c&H588E80&\fs80\b0\fn汉仪尚巍小时候简\bord3\fscx168\fscy112\pos(846.4,289.2)\clip(m 568 201 b 567 229 566 221 566 236 615 220 715 217 737 221 809 230 810 206 845 222 901 216 902 243 1013 225 985 249 979 200 1152 242 1064 186 1147 224 1118 210)}弗兰肯斯坦
 Dialogue: 0,0:00:14.14,0:00:20.60,ExtraSciFi - EN,,0,0,0,,( Music )
 Dialogue: 0,0:00:14.14,0:00:20.60,ExtraSciFi - 中文,,0,0,0,,（ 音乐 ）
 Dialogue: 0,0:00:20.62,0:00:24.34,ExtraSciFi - EN,,0,0,0,,The very first sentence of the preface to Frankenstein reads thus,
 Dialogue: 0,0:00:20.62,0:00:24.34,ExtraSciFi - 中文,,0,0,0,,《弗兰肯斯坦》的前言，开篇这样写道：
+Dialogue: 0,0:00:19.96,0:00:24.47,ExtraSciFi - 画面,,0,0,0,,{\c&H2F355D&\frz36.46\fs65\bord4\pos(650.667,96.666)\frx16\fry4\fscx153\fscy121}前言
+Dialogue: 0,0:00:19.96,0:00:24.47,ExtraSciFi - 画面,,0,0,0,,{\c&H2F355D&\frz36.46\fs52\bord3\3c&HFFFFFF&\frx18\fry358\pos(826.666,255.333)}珀西·雪莱
 Dialogue: 0,0:00:24.48,0:00:28.00,ExtraSciFi - EN,,0,0,0,,{\i1}"The event on which this fiction is founded, has been supposed, {\i0}
 Dialogue: 0,0:00:24.48,0:00:28.00,ExtraSciFi - 引用,,0,0,0,,“关于这部小说设定的背景，已经有人提出过猜想，
+Dialogue: 0,0:00:24.50,0:00:27.94,ExtraSciFi - 画面,,0,0,0,,{\pos(136,140.667)}{\c&H2F2C94&}珀西·雪莱
+Dialogue: 0,0:00:24.50,0:00:27.94,ExtraSciFi - 画面,,0,0,0,,{\c&H2F355D&\fs42\3c&HFFFFFF&\pos(985.333,106)}{\3c&HC2E9F0&}{\fs66}{\c&H6D7BCB&}关{\c&H764657&}{\fs}于这部小说设定的背景，\N已经有人提出过猜想……
 Dialogue: 0,0:00:28.03,0:00:31.46,ExtraSciFi - EN,,0,0,0,,{\i1}"by Dr. Darwin, and some of the physiological writers of Germany,{\i0}
 Dialogue: 0,0:00:28.03,0:00:31.46,ExtraSciFi - 引用,,0,0,0,,“比如达尔文博士和一些德国的生理学学者，
+Dialogue: 0,0:00:27.96,0:00:31.67,ExtraSciFi - 画面,,0,0,0,,{\c&HFEEEDC&\an8\pos(213.332,84.667)\frz2.197}{\c&HFFEDDE&\bord2\fs48\3c&H131312&}伊拉斯谟斯\N达尔文
+Dialogue: 0,0:00:27.96,0:00:31.67,ExtraSciFi - 画面,,0,0,0,,{\an8\pos(215.999,194)\bord1\shad1}{\fs33{\c&H216129&\fn微软雅黑\4c&HF5F5FA&}英国植物学家与生理学家、\N医学家、诗人、发明家、\N不是那个我们熟知的\N写《进化论》的\N查尔斯·达尔文{\4c&HF7F7F9&}
 Dialogue: 0,0:00:31.51,0:00:33.87,ExtraSciFi - EN,,0,0,0,,{\i1}"as not of impossible occurrence.{\i0}
 Dialogue: 0,0:00:31.51,0:00:33.87,ExtraSciFi - 引用,,0,0,0,,“他们认为这并非不可能发生。
 Dialogue: 0,0:00:33.96,0:00:36.97,ExtraSciFi - EN,,0,0,0,,{\i1}"I shall not be supposed as according the remotest degree of{\i0}
 Dialogue: 0,0:00:33.96,0:00:36.97,ExtraSciFi - 引用,,0,0,0,,“我对于这样一种想象，
+Dialogue: 0,0:00:33.96,0:00:39.57,ExtraSciFi - 画面,,0,0,0,,{\fs60\pos(1179.2,356.4)\frz1.342\frx6\fry340}{\c&H334148&\3c&HF0F4F6&\bord1\shad2}阿卡姆\N疯人院
+Dialogue: 0,0:00:33.96,0:00:39.57,ExtraSciFi - 注释,,0,0,0,,{\fs36\pos(1107.2,412.4)}出自《蝙蝠侠》系列作品
 Dialogue: 0,0:00:36.97,0:00:39.12,ExtraSciFi - EN,,0,0,0,,{\i1}"serious faith to such an imagination,{\i0}
 Dialogue: 0,0:00:36.97,0:00:39.12,ExtraSciFi - 引用,,0,0,0,,“不会有丝毫当真，
 Dialogue: 0,0:00:39.12,0:00:42.60,ExtraSciFi - EN,,0,0,0,,{\i1}"yet, in assuming it as the basis of a work of fancy,{\i0}
 Dialogue: 0,0:00:39.12,0:00:42.60,ExtraSciFi - 引用,,0,0,0,,"然而，尽管我将其作为想象的基础，
+Dialogue: 0,0:00:39.60,0:00:44.77,ExtraSciFi - 画面,,0,0,0,,{\fs40\c&H123442&\3c&HFFFFFF&\frx16\fry350\frz341.4\4c&HF7F7F9&\pos(528,504)}玛丽·雪莱
+Dialogue: 0,0:00:39.60,0:00:44.77,ExtraSciFi - 画面,,0,0,0,,{\fs40\c&H123442&\3c&HFFFFFF&\frx16\fry350\frz341.4\4c&HF7F7F9&\pos(566.4,346.8)}弗兰肯斯坦
 Dialogue: 0,0:00:42.60,0:00:47.76,ExtraSciFi - EN,,0,0,0,,{\i1}"I have not considered myself as merely weaving a series of supernatural terrors."{\i0}
 Dialogue: 0,0:00:42.60,0:00:47.76,ExtraSciFi - 引用,,0,0,0,,“我并不觉得自己仅仅是在编造一系列超自然的恐怖故事。”
-Dialogue: 0,0:00:47.82,0:00:52.09,ExtraSciFi - EN,,0,0,0,,And it is on that statement that all of science fiction is founded.
-Dialogue: 0,0:00:47.82,0:00:52.09,ExtraSciFi - 中文,,0,0,0,,所有科幻都是建立在这样一种观点之上的
+Dialogue: 0,0:00:47.84,0:00:52.11,ExtraSciFi - EN,,0,0,0,,And it is on that statement that all of science fiction is founded.
+Dialogue: 0,0:00:47.84,0:00:52.11,ExtraSciFi - 中文,,0,0,0,,所有科幻都是基于上述观点的
+Dialogue: 0,0:00:47.84,0:00:52.11,ExtraSciFi - 画面,,0,0,0,,{\fs60\fscx155\fscy106\bord3\shad1\c&H69BAC2&\3c&H060607&\4c&H0E0E0F&\pos(656,588.4)\fn汉仪乐喵体简}它可能成真
 Dialogue: 0,0:00:52.17,0:00:55.83,ExtraSciFi - EN,,0,0,0,,Shelley is saying that the events in this book could be real,
-Dialogue: 0,0:00:52.17,0:00:55.83,ExtraSciFi - 中文,,0,0,0,,雪莱说，书中发生的事{\c&H9D78F4&}有可能{\c}成真
+Dialogue: 0,0:00:52.17,0:00:55.83,ExtraSciFi - 中文,,0,0,0,,雪莱说，书中发生的事{\u1}有可能{\u0}成真
+Dialogue: 0,0:00:52.13,0:00:59.14,ExtraSciFi - 画面,,0,0,0,,{\fs40\c&H123442&\3c&HFFFFFF&\frx16\fry350\frz341.4\4c&HF7F7F9&\pos(438.4,508.8)}玛丽·雪莱
+Dialogue: 0,0:00:52.13,0:00:59.14,ExtraSciFi - 画面,,0,0,0,,{\fs40\c&H123442&\3c&HFFFFFF&\frx16\fry350\frz341.4\4c&HF7F7F9&\pos(486.4,350)}弗兰肯斯坦
+Dialogue: 0,0:00:54.55,0:00:59.14,ExtraSciFi - 画面,,0,0,0,,{\c&H3EBB70&\fs70\bord3\3c&H0A0A0B&\pos(584,134)}可能
+Dialogue: 0,0:00:54.55,0:00:59.14,ExtraSciFi - 画面,,0,0,0,,{\c&H3EBB70&\fs70\bord3\3c&H0A0A0B&\pos(662.4,206)}{\c&H2F3B5E&\bord0}成真
+Dialogue: 0,0:00:55.83,0:00:59.14,ExtraSciFi - 画面,,0,0,0,,{\c&H696CD4&\fs70\bord3\3c&H0A0A0B&\pos(907.2,508.4)}是
+Dialogue: 0,0:00:55.83,0:00:59.14,ExtraSciFi - 画面,,0,0,0,,{\c&H3EBB70&\fs70\bord3\3c&H0A0A0B&\pos(996.8,510)}{\c&H2F3B5E&\bord0}真的
 Dialogue: 0,0:00:55.83,0:00:58.92,ExtraSciFi - EN,,0,0,0,,not that they are real or even that they are remotely likely,
-Dialogue: 0,0:00:55.83,0:00:58.92,ExtraSciFi - 中文,,0,0,0,,不是因为它们{\c&H9D78F4&}是{\c}真的，甚至它们几乎不可能发生
+Dialogue: 0,0:00:55.83,0:00:58.92,ExtraSciFi - 中文,,0,0,0,,不是因为它们{\u1}是{\u0}真的，甚至它们几乎不可能发生
 Dialogue: 0,0:00:58.92,0:01:01.90,ExtraSciFi - EN,,0,0,0,,but they could exist in the universe we know.
-Dialogue: 0,0:00:58.92,0:01:01.90,ExtraSciFi - 中文,,0,0,0,,而是它们{\c&H9D78F4&}可能{\c}存在于我们所知的宇宙中
+Dialogue: 0,0:00:58.92,0:01:01.90,ExtraSciFi - 中文,,0,0,0,,而是它们{\u1}有可能{\u}存在于我们所知的宇宙中
 Dialogue: 0,0:01:01.95,0:01:05.40,ExtraSciFi - EN,,0,0,0,,Eventually, we will escape the bounds of this statement with science fiction,
 Dialogue: 0,0:01:01.95,0:01:05.40,ExtraSciFi - 中文,,0,0,0,,最终，我们将跳出科幻中这一思想的束缚
+Dialogue: 0,0:01:01.93,0:01:05.54,ExtraSciFi - 画面,,0,0,0,,{\fs70\fn潮字社曾玉波手书简\b0\frz8.277\frx350\fry344\pos(881.6,386.8)\bord\shad1}科幻
 Dialogue: 0,0:01:05.40,0:01:06.79,ExtraSciFi - EN,,0,0,0,,but it's this idea,
 Dialogue: 0,0:01:05.40,0:01:06.79,ExtraSciFi - 中文,,0,0,0,,不过正是这样的想法
+Dialogue: 0,0:01:05.56,0:01:07.64,ExtraSciFi - 画面,,0,0,0,,{\fs60\fscx155\fscy106\bord3\shad1\c&H69BAC2&\3c&H060607&\4c&H0E0E0F&\pos(656,588.4)\fn汉仪乐喵体简}它可能成真
 Dialogue: 0,0:01:06.79,0:01:11.40,ExtraSciFi - EN,,0,0,0,,the idea that our sci-fi tales exist within our rational world,
 Dialogue: 0,0:01:06.79,0:01:11.40,ExtraSciFi - 中文,,0,0,0,,即科幻故事有可能存在于我们的理性世界
+Dialogue: 0,0:01:11.35,0:01:15.94,ExtraSciFi - 画面,,0,0,0,,{\pos(996.8,529.2)}谎言
+Dialogue: 0,0:01:07.66,0:01:11.34,ExtraSciFi - 画面,,0,0,0,,{\frz338.9\frx32\fry358\fs55\c&H89D9E9&\3c&H060607&\4c&H0A0A0A&\pos(713.067,242.8)}索拉里斯星
+Dialogue: 0,0:01:07.66,0:01:11.34,ExtraSciFi - 画面,,0,0,0,,{\frz338.9\frx32\fry358\fs55\c&H89D9E9&\3c&H060607&\4c&H0A0A0A&\pos(625.6,359.6)}莱姆
 Dialogue: 0,0:01:11.40,0:01:14.52,ExtraSciFi - EN,,0,0,0,,within the bounds of what science tells us is possible,
-Dialogue: 0,0:01:11.40,0:01:14.52,ExtraSciFi - 中文,,0,0,0,,这并不违背科学规律
+Dialogue: 0,0:01:11.40,0:01:14.52,ExtraSciFi - 中文,,0,0,0,,并不违背科学规律
 Dialogue: 0,0:01:14.52,0:01:18.68,ExtraSciFi - EN,,0,0,0,,that makes science fiction fundamentally different from fantasy or myth.
 Dialogue: 0,0:01:14.52,0:01:18.68,ExtraSciFi - 中文,,0,0,0,,从而使科幻在根本上有别于奇幻和神话
 Dialogue: 0,0:01:18.87,0:01:22.56,ExtraSciFi - EN,,0,0,0,,And that thought is incredibly important at the birth of the genre.
 Dialogue: 0,0:01:18.87,0:01:22.56,ExtraSciFi - 中文,,0,0,0,,而且这一想法对于科幻体裁的诞生至关重要
+Dialogue: 0,0:01:18.86,0:01:22.57,ExtraSciFi - 注释,,0,0,0,,{\fs55\c&H655C99&\fn汉仪乐喵体简\frz5.567\pos(1022.4,468.4)}起点
 Dialogue: 0,0:01:22.56,0:01:26.33,ExtraSciFi - EN,,0,0,0,,This is what separates it out as its own distinct literary branch
-Dialogue: 0,0:01:22.56,0:01:26.33,ExtraSciFi - 中文,,0,0,0,,让科幻开辟出了独立的文学分支
+Dialogue: 0,0:01:22.56,0:01:26.33,ExtraSciFi - 中文,,0,0,0,,它让科幻开辟出了独立的文学分支
+Dialogue: 0,0:01:22.58,0:01:26.27,ExtraSciFi - 画面,,0,0,0,,{\pos(653.333,572.667)\c&H020102&\fs60}文学
+Dialogue: 0,0:01:22.58,0:01:26.27,ExtraSciFi - 画面,,0,0,0,,{\c&H020102&\fs60\pos(448,322.001)\frz328.9}科幻
+Dialogue: 0,0:01:22.58,0:01:26.27,ExtraSciFi - 画面,,0,0,0,,{\c&H020102&\fs50\frz325.7\pos(597.333,252.667)}短篇
+Dialogue: 0,0:01:22.58,0:01:26.27,ExtraSciFi - 画面,,0,0,0,,{\c&H020102&\fs55\frz45.52\pos(704,192.668)}悬疑
+Dialogue: 0,0:01:22.58,0:01:26.27,ExtraSciFi - 画面,,0,0,0,,{\c&H020102&\fs50-\frz29.95\pos(774.666,243.334)}奇幻
+Dialogue: 0,0:01:22.58,0:01:26.27,ExtraSciFi - 画面,,0,0,0,,{\c&H020102&\fs55\pos(785.333,396.668)\frz24.69}恐怖
+Dialogue: 0,0:01:26.28,0:01:34.54,ExtraSciFi - 画面,,0,0,0,,{\fs55\pos(693.333,556.933)}幻想体裁
+Dialogue: 0,0:01:26.28,0:01:34.54,ExtraSciFi - 画面,,0,0,0,,{\fs55\pos(817.333,96.668)}恐怖小说
+Dialogue: 0,0:01:26.28,0:01:34.54,ExtraSciFi - 画面,,0,0,0,,{\fs55\pos(869.599,629.467)}神话故事
+Dialogue: 0,0:01:26.28,0:01:34.54,ExtraSciFi - 画面,,0,0,0,,{\fs55\pos(926.666,299.333)}民间传说
+Dialogue: 0,0:01:26.28,0:01:34.54,ExtraSciFi - 画面,,0,0,0,,{\fs55\c&H5764A9&\pos(282.665,143.334)}科幻
+Dialogue: 0,0:01:26.28,0:01:34.54,ExtraSciFi - 画面,,0,0,0,,{\fs55\c&H000000&\pos(306.665,191.334)}准则
 Dialogue: 0,0:01:26.33,0:01:28.66,ExtraSciFi - EN,,0,0,0,,and allows it to have rules and conventions
-Dialogue: 0,0:01:26.33,0:01:28.66,ExtraSciFi - 中文,,0,0,0,,拥有自己的规则和惯例
+Dialogue: 0,0:01:26.33,0:01:28.66,ExtraSciFi - 中文,,0,0,0,,拥有自己的准则和惯例
 Dialogue: 0,0:01:28.66,0:01:34.46,ExtraSciFi - EN,,0,0,0,,unlike those already existing genres of the fantastic, of horror or folklore or myth.
 Dialogue: 0,0:01:28.66,0:01:34.46,ExtraSciFi - 中文,,0,0,0,,不同于已有的幻想体裁，诸如恐怖小说、民间传说或者神话故事
 Dialogue: 0,0:01:34.55,0:01:37.79,ExtraSciFi - EN,,0,0,0,,It's also initially part of what gets us to buy in.
 Dialogue: 0,0:01:34.55,0:01:37.79,ExtraSciFi - 中文,,0,0,0,,这也是科幻最初吸引我们的一部分原因
+Dialogue: 0,0:01:34.55,0:01:37.77,ExtraSciFi - 画面,,0,0,0,,{\fs32\frz71.02\pos(873.333,246)}美丽
+Dialogue: 0,0:01:34.55,0:01:37.77,ExtraSciFi - 画面,,0,0,0,,{\fs32\pos(898.667,254)\frz68.92}新世界
 Dialogue: 0,0:01:37.86,0:01:42.17,ExtraSciFi - EN,,0,0,0,,Science fiction uses the possible as a lens for our world.
-Dialogue: 0,0:01:37.86,0:01:42.17,ExtraSciFi - 中文,,0,0,0,,科幻以“可能成真之事”作为观察世界的透镜
+Dialogue: 0,0:01:37.86,0:01:42.17,ExtraSciFi - 中文,,0,0,0,,科幻以“可能性”作为观察世界的透镜
+Dialogue: 0,0:01:37.78,0:01:42.84,ExtraSciFi - 画面,,0,0,0,,{\c&H58C674&\3c&H040405&\4c&H070708&\fs60\bord5\pos(629.334,58)}可能性透镜
+Dialogue: 0,0:01:37.78,0:01:42.84,ExtraSciFi - 画面,,0,0,0,,{\c&H58C674&\3c&H040405&\4c&H070708&\fs60\bord3\frz6.552\fscx162\fscy132\pos(754.667,492.666)}{\c&HB9BB69&}科幻
 Dialogue: 0,0:01:42.26,0:01:44.83,ExtraSciFi - EN,,0,0,0,,It may be the remote and the unlikely,
 Dialogue: 0,0:01:42.26,0:01:44.83,ExtraSciFi - 中文,,0,0,0,,也许遥远或者不可能
 Dialogue: 0,0:01:44.83,0:01:47.68,ExtraSciFi - EN,,0,0,0,,but what better way to look at human nature
 Dialogue: 0,0:01:44.83,0:01:47.68,ExtraSciFi - 中文,,0,0,0,,然而要想审视人性，有什么方法能比得上
 Dialogue: 0,0:01:47.68,0:01:52.90,ExtraSciFi - EN,,0,0,0,,than to set it against the extreme cases of what it might someday encounter
 Dialogue: 0,0:01:47.68,0:01:52.90,ExtraSciFi - 中文,,0,0,0,,将其置于将来有可能发生的极端情形下
+Dialogue: 0,0:01:48.01,0:01:53.21,ExtraSciFi - 画面,,0,0,0,,{\c&H271B54&\fs60\pos(560,175.333)}嘿
 Dialogue: 0,0:01:52.90,0:01:54.59,ExtraSciFi - EN,,0,0,0,,and see what rolls out?
 Dialogue: 0,0:01:52.90,0:01:54.59,ExtraSciFi - 中文,,0,0,0,,然后看看会发生什么呢
 Dialogue: 0,0:01:54.67,0:01:56.62,ExtraSciFi - EN,,0,0,0,,This is so important to Shelley
 Dialogue: 0,0:01:54.67,0:01:56.62,ExtraSciFi - 中文,,0,0,0,,雪莱觉得这一点极为重要
+Dialogue: 0,0:01:56.51,0:01:59.64,ExtraSciFi - 画面,,0,0,0,,{\fs60\c&H534F63&\pos(518.667,84.667)\bord0.2\3c&H3B3A50&}拥有生命？
+Dialogue: 0,0:01:56.51,0:01:59.64,ExtraSciFi - 画面,,0,0,0,,{\fs60\c&H534F63&\pos(1116.001,328.666)\bord0.2\3c&H3B3A50&}有朝一日\N这可能成真
 Dialogue: 0,0:01:56.62,0:01:59.64,ExtraSciFi - EN,,0,0,0,,that it's the very first thing that's presented to the reader.
 Dialogue: 0,0:01:56.62,0:01:59.64,ExtraSciFi - 中文,,0,0,0,,因此她一上来就将其揭示给读者
 Dialogue: 0,0:01:59.64,0:02:02.92,ExtraSciFi - EN,,0,0,0,,Without this idea of the fantastic possible,
-Dialogue: 0,0:01:59.64,0:02:02.92,ExtraSciFi - 中文,,0,0,0,,没有“所想可能成真”这一想法
+Dialogue: 0,0:01:59.64,0:02:02.92,ExtraSciFi - 中文,,0,0,0,,没有“所想可能成真”这一理念
 Dialogue: 0,0:02:02.92,0:02:05.28,ExtraSciFi - EN,,0,0,0,,I don't think we have science fiction.
 Dialogue: 0,0:02:02.92,0:02:05.28,ExtraSciFi - 中文,,0,0,0,,我觉得就不会有科幻
+Dialogue: 0,0:02:02.91,0:02:05.34,ExtraSciFi - 画面,,0,0,0,,{\fs70\frz352.7\frx26\fry358\pos(654.667,250)}海伯利安
+Dialogue: 0,0:02:02.91,0:02:05.34,ExtraSciFi - 画面,,0,0,0,,{\fs70\frx28\fry352\frz347.9\pos(576,447.333)}丹·西蒙斯
 Dialogue: 0,0:02:05.36,0:02:09.48,ExtraSciFi - EN,,0,0,0,,But that is far from the only standard Frankenstein created for sci-fi.
 Dialogue: 0,0:02:05.36,0:02:09.48,ExtraSciFi - 中文,,0,0,0,,不过《弗兰肯斯坦》为科幻创立的标准远不止于此
+Dialogue: 0,0:02:05.35,0:02:18.37,ExtraSciFi - 画面,,0,0,0,,{\fs60\fscx155\fscy106\bord3\shad1\c&H69BAC2&\3c&H060607&\4c&H0E0E0F&\fn汉仪乐喵体简\pos(257.333,83.067)}它可能成真
+Dialogue: 0,0:02:05.35,0:02:18.37,ExtraSciFi - 画面,,0,0,0,,{\fs35\c&H123442&\3c&H123442&\frx16\fry350\frz341.4\4c&HF7F7F9&\bord0.2\pos(538.4,415.334)}弗兰肯斯坦
+Dialogue: 0,0:02:05.35,0:02:18.37,ExtraSciFi - 画面,,0,0,0,,{\fs38\c&H123442&\3c&H000000&\b0\frx16\fry350\frz341.4\bord0.2\pos(512.266,538)}玛丽·雪莱
 Dialogue: 0,0:02:09.55,0:02:13.51,ExtraSciFi - EN,,0,0,0,,Today, we are going to explore all the other ways that Frankenstein established.
 Dialogue: 0,0:02:09.55,0:02:13.51,ExtraSciFi - 中文,,0,0,0,,今天我们将探索《弗兰肯斯坦》建立的其他模式
+Dialogue: 0,0:02:10.95,0:02:18.37,ExtraSciFi - 画面,,0,0,0,,{\fs60\pos(805.333,70)}{\c&H010002&}隐喻
+Dialogue: 0,0:02:10.95,0:02:18.37,ExtraSciFi - 画面,,0,0,0,,{\fs60\pos(797.333,359.334)}{\c&H010002&}风格
+Dialogue: 0,0:02:10.95,0:02:18.37,ExtraSciFi - 画面,,0,0,0,,{\fs60\pos(828,587.333)}{\c&H010002&}技术
 Dialogue: 0,0:02:13.51,0:02:18.27,ExtraSciFi - EN,,0,0,0,,Tropes, styles, and techniques that we almost take for granted in sci-fi today.
 Dialogue: 0,0:02:13.51,0:02:18.27,ExtraSciFi - 中文,,0,0,0,,隐喻、风格和技术，那些我们如今在科幻中视为理所当然的元素
 Dialogue: 0,0:02:18.42,0:02:21.53,ExtraSciFi - EN,,0,0,0,,Now, before I tread any further, I should say one thing,
 Dialogue: 0,0:02:18.42,0:02:21.53,ExtraSciFi - 中文,,0,0,0,,现在，在展开之前，我得说件事
+Dialogue: 0,0:02:18.38,0:02:21.54,ExtraSciFi - 画面,,0,0,0,,{\fs47\pos(1024,170)}带好毛巾
+Dialogue: 0,0:02:18.38,0:02:21.54,ExtraSciFi - 画面,,0,0,0,,{\fs47\frx0\fry26\pos(556,307.333)\frz358}科幻基础
+Dialogue: 0,0:02:18.38,0:02:21.54,ExtraSciFi - 注释,,0,0,0,,{\fs30\pos(1185.334,252.667)}这个梗出自\N《银河系漫游指南》
+Dialogue: 0,0:02:21.55,0:02:29.24,ExtraSciFi - 画面,,0,0,0,,{\frx22\fry24\frz4.374\pos(295.999,152.667)}新弗兰肯斯坦
+Dialogue: 0,0:02:21.55,0:02:29.24,ExtraSciFi - 画面,,0,0,0,,{\frx22\fry24\frz4.374\fs35\pos(336,328.667)}梅尔·布鲁克斯
+Dialogue: 0,0:02:21.55,0:02:29.24,ExtraSciFi - 画面,,0,0,0,,{\fs40\frz345.5\frx22\fry16\pos(526.667,276.667)}玛丽·雪莱的\N弗兰肯斯坦
 Dialogue: 0,0:02:21.60,0:02:24.23,ExtraSciFi - EN,,0,0,0,,if you only know this story from the movies,
 Dialogue: 0,0:02:21.60,0:02:24.23,ExtraSciFi - 中文,,0,0,0,,如果你只是从电影中了解到这个故事
+Dialogue: 0,0:02:24.55,0:02:29.24,ExtraSciFi - 画面,,0,0,0,,{\frz343.5\fs35\pos(1146.666,323.332)}弗兰肯斯坦
+Dialogue: 0,0:02:24.55,0:02:29.24,ExtraSciFi - 画面,,0,0,0,,{\frz343.5\fs35\pos(1110.666,463.332)}玛丽·雪莱
 Dialogue: 0,0:02:24.23,0:02:26.83,ExtraSciFi - EN,,0,0,0,,you don't actually know this story at all.
 Dialogue: 0,0:02:24.23,0:02:26.83,ExtraSciFi - 中文,,0,0,0,,那么你其实对它一无所知
 Dialogue: 0,0:02:26.91,0:02:28.92,ExtraSciFi - EN,,0,0,0,,The films have little to do with the book.
@@ -125,7 +196,7 @@ Dialogue: 0,0:02:32.08,0:02:35.53,ExtraSciFi - 中文,,0,0,0,,即为什么这个
 Dialogue: 0,0:02:35.56,0:02:37.68,ExtraSciFi - EN,,0,0,0,,the way it has throughout the 20th century,
 Dialogue: 0,0:02:35.56,0:02:37.68,ExtraSciFi - 中文,,0,0,0,,贯穿了整个20世纪
 Dialogue: 0,0:02:37.68,0:02:41.18,ExtraSciFi - EN,,0,0,0,,everything I talk about today will be regarding the original work.
-Dialogue: 0,0:02:37.68,0:02:41.18,ExtraSciFi - 中文,,0,0,0,,不过我今天的讨论都将只围绕原著
+Dialogue: 0,0:02:37.68,0:02:41.18,ExtraSciFi - 中文,,0,0,0,,但是我今天的讨论都将只围绕原著
 Dialogue: 0,0:02:41.31,0:02:44.30,ExtraSciFi - EN,,0,0,0,,So let's start at the beginning, with a young man,
 Dialogue: 0,0:02:41.31,0:02:44.30,ExtraSciFi - 中文,,0,0,0,,所以让我们从一个年轻人开始
 Dialogue: 0,0:02:44.35,0:02:48.41,ExtraSciFi - EN,,0,0,0,,obsessed by alchemy and yet fascinated by the power of science.
@@ -138,8 +209,10 @@ Dialogue: 0,0:02:53.25,0:02:57.58,ExtraSciFi - EN,,0,0,0,,A young man blind to t
 Dialogue: 0,0:02:53.25,0:02:57.58,ExtraSciFi - 中文,,0,0,0,,对于将做之事的后果，他视而不见
 Dialogue: 0,0:02:57.72,0:02:59.98,ExtraSciFi - EN,,0,0,0,,Let's talk about Victor Frankenstein.
 Dialogue: 0,0:02:57.72,0:02:59.98,ExtraSciFi - 中文,,0,0,0,,我们来谈谈维克多·弗兰肯斯坦
+Dialogue: 0,0:02:57.68,0:03:00.91,ExtraSciFi - 画面,,0,0,0,,{\c&H473841&\bord\fs53\pos(286.666,354)}维克多·弗兰肯斯坦
 Dialogue: 0,0:02:59.98,0:03:03.77,ExtraSciFi - EN,,0,0,0,,Victor is the blueprint for the frustrated scientist trope.
 Dialogue: 0,0:02:59.98,0:03:03.77,ExtraSciFi - 中文,,0,0,0,,维克多是无数失意科学家的原型
+Dialogue: 0,0:03:00.91,0:03:03.84,ExtraSciFi - 画面,,0,0,0,,{\c&HFFE1BC&\3c&H19191B&\4c&H141416&\fs53\pos(444.001,176.667)}疯狂科学家
 Dialogue: 0,0:03:03.85,0:03:05.56,ExtraSciFi - EN,,0,0,0,,All of those other scientists
 Dialogue: 0,0:03:03.85,0:03:05.56,ExtraSciFi - 中文,,0,0,0,,所有其他的科学家
 Dialogue: 0,0:03:05.58,0:03:10.52,ExtraSciFi - EN,,0,0,0,,you read about in comics, see in movies, or find in the pages of later science fiction,
@@ -154,6 +227,7 @@ Dialogue: 0,0:03:18.81,0:03:23.07,ExtraSciFi - EN,,0,0,0,,In fact, this has beco
 Dialogue: 0,0:03:18.81,0:03:23.07,ExtraSciFi - 中文,,0,0,0,,事实上，这在流行文化中已是如此普遍和深入人心
 Dialogue: 0,0:03:23.07,0:03:24.76,ExtraSciFi - EN,,0,0,0,,that a lot of these characters pop up
 Dialogue: 0,0:03:23.07,0:03:24.76,ExtraSciFi - 中文,,0,0,0,,以至于无数类似的角色涌现出来
+Dialogue: 0,0:03:24.20,0:03:29.74,ExtraSciFi - 画面,,0,0,0,,{\c&HDCE7DE&\3c&H080809&\4c&H050506&\frx6\fry352\frz4.47\fs54\pos(1092,69.999)}异形
 Dialogue: 0,0:03:24.78,0:03:26.96,ExtraSciFi - EN,,0,0,0,,without their authors even really thinking about
 Dialogue: 0,0:03:24.78,0:03:26.96,ExtraSciFi - 中文,,0,0,0,,而他们的作者甚至都没有真正探究过
 Dialogue: 0,0:03:26.96,0:03:29.63,ExtraSciFi - EN,,0,0,0,,the legacy of Victor Frankenstein that they come from.
@@ -176,10 +250,16 @@ Dialogue: 0,0:03:49.44,0:03:51.71,ExtraSciFi - EN,,0,0,0,,punished for defying t
 Dialogue: 0,0:03:49.44,0:03:51.71,ExtraSciFi - 中文,,0,0,0,,而受到惩罚的典型
 Dialogue: 0,0:03:51.79,0:03:54.92,ExtraSciFi - EN,,0,0,0,,for the scientist so obsessed with pursuing their ideas
 Dialogue: 0,0:03:51.79,0:03:54.92,ExtraSciFi - 中文,,0,0,0,,科学家对自己的想法是如此着迷
+Dialogue: 0,0:03:51.70,0:03:53.46,ExtraSciFi - 画面,,0,0,0,,{\frx356\fry24\frz12.94\fs50\c&H1B246B&\pos(68,323.333)}炫酷的
+Dialogue: 0,0:03:51.70,0:03:53.46,ExtraSciFi - 画面,,0,0,0,,{\fs50\c&H7976BA&\3c&H000000&\4c&H060607&\bord2\frx356\fry24\frz12.94\pos(81.333,370)}科学
+Dialogue: 0,0:03:53.46,0:03:56.31,ExtraSciFi - 画面,,0,0,0,,{\frx356\fry24\frz12.94\fs70\c&H1B246B&\pos(174.667,257.999)}炫酷的
+Dialogue: 0,0:03:53.46,0:03:56.31,ExtraSciFi - 画面,,0,0,0,,{\fs80\c&H7976BA&\3c&H000000&\4c&H060607&\bord3\frx356\fry24\frz12.94\pos(223.999,338)}科学
+Dialogue: 0,0:03:53.46,0:03:56.31,ExtraSciFi - 画面,,0,0,0,,{\fn汉仪尚巍小时候简\fs82\b0\c&H5C62DC&\3c&H050506&\4c&H111112&\bord4\frz18.77\frx344\fry34\pos(621.333,504.667)}咚
 Dialogue: 0,0:03:54.91,0:03:56.38,ExtraSciFi - EN,,0,0,0,,that they don't even consider
 Dialogue: 0,0:03:54.91,0:03:56.38,ExtraSciFi - 中文,,0,0,0,,以至于他们从未考虑过
 Dialogue: 0,0:03:56.40,0:03:59.43,ExtraSciFi - EN,,0,0,0,,what those ideas might ultimately mean for humanity.
 Dialogue: 0,0:03:56.40,0:03:59.43,ExtraSciFi - 中文,,0,0,0,,对人类来说，这些想法最后意味着什么
+Dialogue: 0,0:03:57.25,0:03:59.47,ExtraSciFi - 画面,,0,0,0,,{\fn汉仪尚巍小时候简\fs80\b0\c&H5C62DC&\3c&H050506&\4c&H111112&\bord4\frz21.5\pos(694.667,290)}咚
 Dialogue: 0,0:03:59.52,0:04:01.32,ExtraSciFi - EN,,0,0,0,,But he's also a coward.
 Dialogue: 0,0:03:59.52,0:04:01.32,ExtraSciFi - 中文,,0,0,0,,但他也是个懦夫
 Dialogue: 0,0:04:01.32,0:04:03.75,ExtraSciFi - EN,,0,0,0,,At the first sight of his own creation,
@@ -194,18 +274,22 @@ Dialogue: 0,0:04:10.11,0:04:12.47,ExtraSciFi - EN,,0,0,0,,which brings us to the
 Dialogue: 0,0:04:10.11,0:04:12.47,ExtraSciFi - 中文,,0,0,0,,这也将我们引到怪物本身
 Dialogue: 0,0:04:12.53,0:04:16.79,ExtraSciFi - EN,,0,0,0,,An innocent, filled with gentle kindness and a love for the world,
 Dialogue: 0,0:04:12.53,0:04:16.79,ExtraSciFi - 中文,,0,0,0,,它天真无邪，温和善良，热爱世界
+Dialogue: 0,0:04:16.80,0:04:21.21,ExtraSciFi - 画面,,0,0,0,,{\c&H262566&\fs65\pos(634.667,76.666)}朋友？
 Dialogue: 0,0:04:16.86,0:04:20.17,ExtraSciFi - EN,,0,0,0,,who is rejected at every turn for his physical appearance,
 Dialogue: 0,0:04:16.86,0:04:20.17,ExtraSciFi - 中文,,0,0,0,,却因外表丑陋，处处遭人排斥
 Dialogue: 0,0:04:20.17,0:04:22.81,ExtraSciFi - EN,,0,0,0,,eventually growing callus and cold.
 Dialogue: 0,0:04:20.17,0:04:22.81,ExtraSciFi - 中文,,0,0,0,,最终它变得冷酷无情
 Dialogue: 0,0:04:22.87,0:04:25.96,ExtraSciFi - EN,,0,0,0,,How many times in science fiction have we seen
 Dialogue: 0,0:04:22.87,0:04:25.96,ExtraSciFi - 中文,,0,0,0,,在科幻中，我们是不是无数次见过
+Dialogue: 0,0:04:25.08,0:04:27.94,ExtraSciFi - 注释,,0,0,0,,{\pos(598.666,101.999)}大猩猩这一形象\N源自电影《金刚》
 Dialogue: 0,0:04:25.96,0:04:27.92,ExtraSciFi - EN,,0,0,0,,this monster with the heart of gold?
 Dialogue: 0,0:04:25.96,0:04:27.92,ExtraSciFi - 中文,,0,0,0,,这样心地善良的怪物
 Dialogue: 0,0:04:27.92,0:04:30.87,ExtraSciFi - EN,,0,0,0,,I present to you that trope's origins,
 Dialogue: 0,0:04:27.92,0:04:30.87,ExtraSciFi - 中文,,0,0,0,,我已经将这种隐喻的起源展示给你们了
 Dialogue: 0,0:04:30.93,0:04:33.21,ExtraSciFi - EN,,0,0,0,,and like many things in Frankenstein
 Dialogue: 0,0:04:30.93,0:04:33.21,ExtraSciFi - 中文,,0,0,0,,并且就像《弗兰肯斯坦》中的许多事物一样
+Dialogue: 0,0:04:31.21,0:04:33.14,ExtraSciFi - 画面,,0,0,0,,{\frz343.5\fs35\pos(595.999,364.665)}弗兰肯斯坦
+Dialogue: 0,0:04:31.21,0:04:33.14,ExtraSciFi - 画面,,0,0,0,,{\frz343.5\fs35\pos(555.999,509.998)}玛丽·雪莱
 Dialogue: 0,0:04:33.21,0:04:34.92,ExtraSciFi - EN,,0,0,0,,Shelley explores this trope
 Dialogue: 0,0:04:33.21,0:04:34.92,ExtraSciFi - 中文,,0,0,0,,雪莱对这一隐喻的探索
 Dialogue: 0,0:04:34.92,0:04:38.12,ExtraSciFi - EN,,0,0,0,,far more thoroughly than many who would eventually borrow it.
@@ -213,7 +297,7 @@ Dialogue: 0,0:04:34.92,0:04:38.12,ExtraSciFi - 中文,,0,0,0,,远比许多后来
 Dialogue: 0,0:04:38.26,0:04:40.33,ExtraSciFi - EN,,0,0,0,,The monster, outwardly ugly,
 Dialogue: 0,0:04:38.26,0:04:40.33,ExtraSciFi - 中文,,0,0,0,,外表丑陋的怪物
 Dialogue: 0,0:04:40.33,0:04:44.89,ExtraSciFi - EN,,0,0,0,,finds itself continuously rejected by an inwardly ugly humanity,
-Dialogue: 0,0:04:40.33,0:04:44.89,ExtraSciFi - 中文,,0,0,0,,发现自己不断遭到人类的排斥，他们的丑陋是内在的
+Dialogue: 0,0:04:40.33,0:04:44.89,ExtraSciFi - 中文,,0,0,0,,发现自己不断遭受内心丑陋的人类排斥
 Dialogue: 0,0:04:44.95,0:04:46.98,ExtraSciFi - EN,,0,0,0,,rejected at birth by Victor,
 Dialogue: 0,0:04:44.95,0:04:46.98,ExtraSciFi - 中文,,0,0,0,,诞生时被维克多抛弃
 Dialogue: 0,0:04:46.98,0:04:49.28,ExtraSciFi - EN,,0,0,0,,attacked in the first village he visited,
@@ -236,54 +320,120 @@ Dialogue: 0,0:05:10.97,0:05:15.07,ExtraSciFi - EN,,0,0,0,,is that we see it self
 Dialogue: 0,0:05:10.97,0:05:15.07,ExtraSciFi - 中文,,0,0,0,,我们看到它自我学习，阅读过去的名著
 Dialogue: 0,0:05:15.21,0:05:19.91,ExtraSciFi - EN,,0,0,0,,Mary Shelley saw her work as part of an ongoing tradition of Western literature.
 Dialogue: 0,0:05:15.21,0:05:19.91,ExtraSciFi - 中文,,0,0,0,,玛丽·雪莱将自己的作品视为西方文学传统的延续
+Dialogue: 0,0:05:15.16,0:05:19.91,ExtraSciFi - 画面,,0,0,0,,{\frz343.5\fs35\pos(507.999,356.665)}弗兰肯斯坦
+Dialogue: 0,0:05:15.16,0:05:19.91,ExtraSciFi - 画面,,0,0,0,,{\frz343.5\fs35\pos(463.999,500.665)}玛丽·雪莱
 Dialogue: 0,0:05:19.99,0:05:23.65,ExtraSciFi - EN,,0,0,0,,Paradise Lost, Dante, The Sorrows of Young Werther,
 Dialogue: 0,0:05:19.99,0:05:23.65,ExtraSciFi - 中文,,0,0,0,,《失乐园》、《神曲》、《少年维特之烦恼》
-Dialogue: 1,0:05:19.99,0:05:23.65,ExtraSciFi - 画面,,0,0,0,,{\fad(500,0)\fs66\3c&HD5B994&\c&H040000&\frz8.453\frx43\fry20\pos(243.999,221.668)}失乐园
-Dialogue: 1,0:05:19.99,0:05:23.65,ExtraSciFi - 画面,,0,0,0,,{\fad(500,0)\fs55\frz12.91\frx37\fry22\3c&HD5B994&\c&H040000&\pos(369.332,369.667)}弥尔顿
-Dialogue: 1,0:05:21.11,0:05:23.65,ExtraSciFi - 画面,,0,0,0,,{\fad(500,0)\fs66\3c&HD5B994&\c&H040000&\frz3.121\frx23\fry8\pos(563.999,68.335)}{\4c&HCACAFA&\3c&HCACAFA&\fs66}神曲
-Dialogue: 1,0:05:21.11,0:05:23.65,ExtraSciFi - 画面,,0,0,0,,{\fad(500,0)\fs66\3c&HD5B994&\c&H040000&\frz3.121\frx23\fry8\pos(571.999,309.668)}{\4c&HCACAFA&\3c&H9C9CC3&\fs66}但丁
-Dialogue: 1,0:05:21.95,0:05:23.65,ExtraSciFi - 画面,,0,0,0,,{\fad(500,0)\fs76\3c&HD5B994&\c&H040000&\frz357.9\frx19\fry348\pos(966.666,157.669)}{\4c&HCACAFA&\3c&H9C9CC3&}{\3c&HBFD272&\4c&HBFD272&}少年维特\N之烦恼
-Dialogue: 1,0:05:21.95,0:05:23.65,ExtraSciFi - 画面,,0,0,0,,{\fad(500,0)\fs76\3c&HD5B994&\c&H040000&\frz357.9\frx19\fry348\pos(830.666,517.669)}{\4c&HCACAFA&\3c&H9C9CC3&}{\3c&HBFD272&\4c&HBFD272&}歌德
-Dialogue: 1,0:05:23.65,0:05:28.04,ExtraSciFi - 画面,,0,0,0,,{\fs51\3c&HD5B994&\c&H040000&\frz8.453\frx43\fry20\pos(614.665,171.001)}失乐园
-Dialogue: 1,0:05:23.65,0:05:28.04,ExtraSciFi - 画面,,0,0,0,,{\fs40\frz12.91\frx37\fry22\3c&HD5B994&\c&H040000&\pos(693.332,268.333)}弥尔顿
-Dialogue: 1,0:05:23.65,0:05:28.04,ExtraSciFi - 画面,,0,0,0,,{\fs51\3c&HD5B994&\c&H040000&\frz3.121\frx23\fry8\pos(818.666,59.002)}{\4c&HCACAFA&\3c&HCACAFA&}神曲
-Dialogue: 1,0:05:23.65,0:05:28.04,ExtraSciFi - 画面,,0,0,0,,{\fs51\3c&HD5B994&\c&H040000&\frz3.121\frx23\fry8\pos(833.332,221.668)}{\4c&HCACAFA&\3c&H9C9CC3&}但丁
-Dialogue: 1,0:05:23.65,0:05:28.04,ExtraSciFi - 画面,,0,0,0,,{\fs56\3c&HD5B994&\c&H040000&\frz357.9\frx19\fry348\pos(1101.332,128.336)}{\4c&HCACAFA&\3c&H9C9CC3&}{\3c&HBFD272&\4c&HBFD272&}少年维特\N之烦恼
-Dialogue: 1,0:05:23.65,0:05:28.04,ExtraSciFi - 画面,,0,0,0,,{\fad(10,0)\fs56\3c&HD5B994&\c&H040000&\frz357.9\frx19\fry348\pos(1001.332,376.336)}{\4c&HCACAFA&\3c&H9C9CC3&}{\3c&HBFD272&\4c&HBFD272&}歌德
+Dialogue: 1,0:05:19.93,0:05:23.65,ExtraSciFi - 画面,,0,0,0,,{\fs66\frz8.453\frx43\fry20\pos(241.332,224.335)}失乐园
+Dialogue: 1,0:05:19.93,0:05:23.65,ExtraSciFi - 画面,,0,0,0,,{\fs55\frz12.91\frx37\fry22\pos(370.665,373.667)}弥尔顿
+Dialogue: 1,0:05:21.11,0:05:23.65,ExtraSciFi - 画面,,0,0,0,,{\frz3.121\frx23\fry8\pos(563.999,68.335)\fs66}神曲
+Dialogue: 1,0:05:21.11,0:05:23.65,ExtraSciFi - 画面,,0,0,0,,{\fs66\frz3.121\frx23\fry8\pos(571.999,309.668)}但丁
+Dialogue: 1,0:05:21.95,0:05:23.65,ExtraSciFi - 画面,,0,0,0,,{\fs76\frz357.9\frx19\fry348\pos(973.333,171.002)}少年维特\N之烦恼
+Dialogue: 1,0:05:21.95,0:05:23.65,ExtraSciFi - 画面,,0,0,0,,{\fs76\frx19\fry348\frz349.9\pos(825.333,528.336)}歌德
+Dialogue: 1,0:05:23.65,0:05:28.04,ExtraSciFi - 画面,,0,0,0,,{\fs51\\frz8.453\frx43\fry20\pos(614.665,171.001)}失乐园
+Dialogue: 1,0:05:23.65,0:05:28.04,ExtraSciFi - 画面,,0,0,0,,{\fs40\frz12.91\frx37\fry22\pos(693.332,268.333)}弥尔顿
+Dialogue: 1,0:05:23.65,0:05:28.04,ExtraSciFi - 画面,,0,0,0,,{\fs51\frz3.121\frx23\fry8\pos(818.666,59.002)}神曲
+Dialogue: 1,0:05:23.65,0:05:28.04,ExtraSciFi - 画面,,0,0,0,,{\fs51\frz3.121\frx23\fry8\pos(833.332,221.668)}但丁
+Dialogue: 1,0:05:23.65,0:05:28.04,ExtraSciFi - 画面,,0,0,0,,{\fs56\frz357.9\frx19\fry348\pos(1101.332,128.336)}少年维特\N之烦恼
+Dialogue: 1,0:05:23.65,0:05:28.04,ExtraSciFi - 画面,,0,0,0,,{\fs56\frx19\fry348\frz351.4\pos(1001.332,379.003)}歌德
+Dialogue: 0,0:05:23.65,0:05:28.04,ExtraSciFi - 画面,,0,0,0,,{\frz343.5\fs35\pos(507.999,359.332)}弗兰肯斯坦
+Dialogue: 0,0:05:23.65,0:05:28.04,ExtraSciFi - 画面,,0,0,0,,{\frz343.5\fs35\pos(463.999,500.665)}玛丽·雪莱
 Dialogue: 0,0:05:23.72,0:05:26.28,ExtraSciFi - EN,,0,0,0,,these are all directly referenced in the work.
 Dialogue: 0,0:05:23.72,0:05:26.28,ExtraSciFi - 中文,,0,0,0,,这些都在书中提及
 Dialogue: 0,0:05:26.28,0:05:28.11,ExtraSciFi - EN,,0,0,0,,They serve as a foundation,
 Dialogue: 0,0:05:26.28,0:05:28.11,ExtraSciFi - 中文,,0,0,0,,它们作为基础
+Dialogue: 0,0:05:28.05,0:05:31.11,ExtraSciFi - 画面,,0,0,0,,{\fs51\frz8.453\frx43\fry20\pos(162.665,459.001)}失乐园
+Dialogue: 0,0:05:28.05,0:05:31.11,ExtraSciFi - 画面,,0,0,0,,{\fs40\frz12.91\frx37\fry22\pos(238.665,564.333)}弥尔顿
+Dialogue: 0,0:05:28.05,0:05:31.11,ExtraSciFi - 画面,,0,0,0,,{\fs51\frx23\fry8\frz15.09\pos(639.999,457.669)}神曲
+Dialogue: 0,0:05:28.05,0:05:31.11,ExtraSciFi - 画面,,0,0,0,,{\fs51\frx23\fry8\frz15.45\pos(686.665,620.335)}但丁
+Dialogue: 0,0:05:28.05,0:05:31.11,ExtraSciFi - 画面,,0,0,0,,{\fs56\frz357.9\frx19\fry348\pos(1149.332,435.003)}少年维特\N之烦恼
+Dialogue: 0,0:05:28.05,0:05:31.11,ExtraSciFi - 画面,,0,0,0,,{\fs56\frx19\fry348\pos(1071.999,611.003)\frz353.1\org(1071.999,616.336)}歌德
 Dialogue: 0,0:05:28.11,0:05:31.10,ExtraSciFi - EN,,0,0,0,,as key insights into the character of the Monster,
 Dialogue: 0,0:05:28.11,0:05:31.10,ExtraSciFi - 中文,,0,0,0,,是深入理解怪物形象的关键
 Dialogue: 0,0:05:31.10,0:05:33.82,ExtraSciFi - EN,,0,0,0,,and they are things that the writer expects the reader
 Dialogue: 0,0:05:31.10,0:05:33.82,ExtraSciFi - 中文,,0,0,0,,作者希望读者
-Dialogue: 0,0:05:33.83,0:05:36.41,ExtraSciFi - EN,,0,0,0,,to at least have a passing familiarity with.
-Dialogue: 0,0:05:33.83,0:05:36.41,ExtraSciFi - 中文,,0,0,0,,至少能对其略知一二
-Dialogue: 0,0:05:36.51,0:05:38.70,ExtraSciFi - EN,,0,0,0,,That's something that would became part of the genre, too.
-Dialogue: 0,0:05:36.51,0:05:38.70,ExtraSciFi - 中文,,0,0,0,,这也是科幻体裁的组成部分
+Dialogue: 0,0:05:33.83,0:05:36.42,ExtraSciFi - EN,,0,0,0,,to at least have a passing familiarity with.
+Dialogue: 0,0:05:33.83,0:05:36.42,ExtraSciFi - 中文,,0,0,0,,至少能对其略知一二
+Dialogue: 0,0:05:31.11,0:05:36.44,ExtraSciFi - 画面,,0,0,0,,{\fs90\c&H6962EC&\3c&H040405&\4c&H0B0B0C&\bord4\pos(240.667,217.333)\frx354\fry10\frz4.641}你
+Dialogue: 0,0:05:31.11,0:05:36.44,ExtraSciFi - 画面,,0,0,0,,{\fs80\c&H6962EC&\3c&H040405&\4c&H0B0B0C&\bord4\pos(238,307.999)\frx354\fry10\frz4.641}必须
+Dialogue: 0,0:05:31.11,0:05:36.44,ExtraSciFi - 画面,,0,0,0,,{\fs80\c&H6962EC&\3c&H040405&\4c&H0B0B0C&\bord4\pos(243.333,389.332)\frx354\fry10\frz4.641}读过
+Dialogue: 0,0:05:31.11,0:05:36.44,ExtraSciFi - 画面,,0,0,0,,{\fs80\c&H6962EC&\3c&H040405&\4c&H0B0B0C&\bord4\pos(248.667,471.999)\frx354\fry10\frz4.641}这么多
+Dialogue: 0,0:05:31.11,0:05:36.44,ExtraSciFi - 画面,,0,0,0,,{\fs80\c&H6962EC&\3c&H040405&\4c&H0B0B0C&\bord4\frx354\fry10\frz4.641\pos(238,562.665)}才能读
+Dialogue: 0,0:05:31.11,0:05:36.44,ExtraSciFi - 画面,,0,0,0,,{\fs90\c&H6962EC&\3c&H040405&\4c&H0B0B0C&\bord4\frx354\fry10\frz4.641\pos(242,652)}我的书
+Dialogue: 0,0:05:36.46,0:05:39.27,ExtraSciFi - 画面,,0,0,0,,{\fs60\c&H6962EC&\3c&H040405&\4c&H0B0B0C&\bord4\frx354\fry10\frz4.641\pos(75.333,276)}你
+Dialogue: 0,0:05:36.46,0:05:39.27,ExtraSciFi - 画面,,0,0,0,,{\fs50\c&H6962EC&\3c&H040405&\4c&H0B0B0C&\bord4\frx354\fry10\frz4.641\pos(76.666,339.999)}必须
+Dialogue: 0,0:05:36.46,0:05:39.27,ExtraSciFi - 画面,,0,0,0,,{\fs50\c&H6962EC&\3c&H040405&\4c&H0B0B0C&\bord4\frx354\fry10\frz4.641\pos(79.333,403.999)}读过
+Dialogue: 0,0:05:36.46,0:05:39.27,ExtraSciFi - 画面,,0,0,0,,{\fs50\c&H6962EC&\3c&H040405&\4c&H0B0B0C&\bord4\frx354\fry10\frz4.641\pos(86,461.333)}这么多
+Dialogue: 0,0:05:36.46,0:05:39.27,ExtraSciFi - 画面,,0,0,0,,{\fs50\c&H6962EC&\3c&H040405&\4c&H0B0B0C&\bord4\frx354\fry10\frz4.641\pos(83.333,523.999)}才能读
+Dialogue: 0,0:05:36.46,0:05:39.27,ExtraSciFi - 画面,,0,0,0,,{\fs60\c&H6962EC&\3c&H040405&\4c&H0B0B0C&\bord4\frx354\fry10\frz4.641\pos(78,586.667)}我的书
+Dialogue: 0,0:05:36.46,0:05:38.70,ExtraSciFi - EN,,0,0,0,,That's something that would become part of the genre, too.
+Dialogue: 0,0:05:36.46,0:05:38.70,ExtraSciFi - 中文,,0,0,0,,这也是科幻体裁的组成部分
 Dialogue: 0,0:05:38.70,0:05:42.17,ExtraSciFi - EN,,0,0,0,,Works like Hyperion are firmly grounded in that tradition,
 Dialogue: 0,0:05:38.70,0:05:42.17,ExtraSciFi - 中文,,0,0,0,,《海伯利安》这样的作品也扎根于这一传统
+Dialogue: 0,0:05:39.28,0:05:42.07,ExtraSciFi - 画面,,0,0,0,,{\fs70\frx22\fry354\frz351.6\pos(685.334,267.334)}海伯利安
+Dialogue: 0,0:05:39.28,0:05:42.07,ExtraSciFi - 画面,,0,0,0,,{\fs70\frx22\fry354\pos(614.667,451.333)\frz347.1}丹·西蒙斯
+Dialogue: 0,0:05:42.08,0:05:45.44,ExtraSciFi - 画面,,0,0,0,,{\fs50\frx22\fry354\frz347.1\pos(673.333,391.333)}海伯利安
+Dialogue: 0,0:05:42.08,0:05:45.44,ExtraSciFi - 画面,,0,0,0,,{\fs50\frx22\fry354\frz347.1\pos(620,532.667)}丹·西蒙斯
+Dialogue: 0,0:05:42.08,0:05:45.44,ExtraSciFi - 画面,,0,0,0,,{\fs50\frx22\fry354\frz347.1\c&H366E3B&\4c&H0A0A0B&\pos(345.333,96.666)\bord2}坎特伯雷故事集
+Dialogue: 0,0:05:42.08,0:05:45.44,ExtraSciFi - 画面,,0,0,0,,{\fs60\frx22\fry354\frz347.1\c&H366E3B&\4c&H0A0A0B&\3c&HEDEDF8&\pos(232,282)\bord2}乔叟
+Dialogue: 0,0:05:42.08,0:05:45.44,ExtraSciFi - 画面,,0,0,0,,{\fs60\frx22\fry354\frz347.1\c&H5F411B&\pos(1093.333,98.001)}十日谈
+Dialogue: 0,0:05:42.08,0:05:45.44,ExtraSciFi - 画面,,0,0,0,,{\fs60\frx22\fry354\frz347.1\c&H5F411B&\pos(1021.333,291.334)}薄伽丘
+Dialogue: 0,0:05:45.45,0:05:48.46,ExtraSciFi - 注释,,0,0,0,,{\fs30\pos(1112.001,705.333)}这句诗的译文摘自\N上海译文出版社1983年出版的\N《济慈诗选》第255页\N译者为朱维基\N此版本中诗名译作《海璧朗》\N而现今版本多作《海伯利安》
 Dialogue: 0,0:05:42.17,0:05:45.49,ExtraSciFi - EN,,0,0,0,,borrowing structure from Canterbury Tales and The Decameron,
 Dialogue: 0,0:05:42.17,0:05:45.49,ExtraSciFi - 中文,,0,0,0,,结构上借鉴了《坎特伯雷故事集》和《十日谈》
+Dialogue: 0,0:05:45.45,0:05:48.46,ExtraSciFi - 画面,,0,0,0,,{\pos(162.667,108.667)\c&H201873&\fs60}济慈
+Dialogue: 0,0:05:45.45,0:05:48.46,ExtraSciFi - 画面,,0,0,0,,{\c&H32220E&\fs60\pos(1096,399.334)}农神已经倒下了
+Dialogue: 0,0:05:45.45,0:05:48.46,ExtraSciFi - 画面,,0,0,0,,{\c&H32220E&\fs60\pos(1106.667,518.001)}难道我也要\N{\c&H828AEE&\3c&H050506&\4c&H020203&\bord2}倒下么
 Dialogue: 0,0:05:45.49,0:05:47.70,ExtraSciFi - EN,,0,0,0,,even taking it's name from a Keats poem.
 Dialogue: 0,0:05:45.49,0:05:47.70,ExtraSciFi - 中文,,0,0,0,,甚至书名就取自济慈的一首诗
 Dialogue: 0,0:05:47.79,0:05:49.96,ExtraSciFi - EN,,0,0,0,,Even pieces as odd as Dhalgren
 Dialogue: 0,0:05:47.79,0:05:49.96,ExtraSciFi - 中文,,0,0,0,,甚至像《戴尔格林》这样古怪的作品
+Dialogue: 0,0:05:48.46,0:05:53.42,ExtraSciFi - 画面,,0,0,0,,{\frx26\fry20\fs62\pos(692,312)}戴尔格林
+Dialogue: 0,0:05:48.46,0:05:53.42,ExtraSciFi - 画面,,0,0,0,,{\frx26\fry20\fs62\frz3.932\pos(754.666,528)}德拉尼
 Dialogue: 0,0:05:49.96,0:05:53.36,ExtraSciFi - EN,,0,0,0,,rely on the mythological and literary tradition of the west.
 Dialogue: 0,0:05:49.96,0:05:53.36,ExtraSciFi - 中文,,0,0,0,,也要借助西方的神话和文学传统
 Dialogue: 0,0:05:53.45,0:05:57.96,ExtraSciFi - EN,,0,0,0,,There is an expectation in science fiction that the reader is well read.
 Dialogue: 0,0:05:53.45,0:05:57.96,ExtraSciFi - 中文,,0,0,0,,科幻作品常常默认读者博览群书
+Dialogue: 0,0:05:53.45,0:05:57.89,ExtraSciFi - 画面,,0,0,0,,{\fs60\c&H6962EC&\3c&H040405&\4c&H0B0B0C&\bord4\frz4.641\frx356\fry20\pos(75.333,260)}你
+Dialogue: 0,0:05:53.45,0:05:57.89,ExtraSciFi - 画面,,0,0,0,,{\fs50\c&H6962EC&\3c&H040405&\4c&H0B0B0C&\bord4\frz4.641\frx356\fry20\pos(76.666,323.999)}必须
+Dialogue: 0,0:05:53.45,0:05:57.89,ExtraSciFi - 画面,,0,0,0,,{\fs50\c&H6962EC&\3c&H040405&\4c&H0B0B0C&\bord4\frz4.641\frx356\fry20\pos(79.333,387.999)}读过
+Dialogue: 0,0:05:53.45,0:05:57.89,ExtraSciFi - 画面,,0,0,0,,{\fs50\c&H6962EC&\3c&H040405&\4c&H0B0B0C&\bord4\frz4.641\frx356\fry20\pos(86,445.333)}这么多
+Dialogue: 0,0:05:53.45,0:05:57.89,ExtraSciFi - 画面,,0,0,0,,{\fs50\c&H6962EC&\3c&H040405&\4c&H0B0B0C&\bord4\frz4.641\frx356\fry20\pos(83.333,507.999)}才能读
+Dialogue: 0,0:05:53.45,0:05:57.89,ExtraSciFi - 画面,,0,0,0,,{\fs60\c&H6962EC&\3c&H040405&\4c&H0B0B0C&\bord4\frz4.641\frx356\fry20\pos(78,570.667)}我的书
+Dialogue: 0,0:05:53.45,0:05:57.89,ExtraSciFi - 画面,,0,0,0,,{\fs80\c&HB6BB69&\3c&H000000\3c&H000000&\bord4\pos(718.667,492.667)}科幻
 Dialogue: 0,0:05:57.96,0:05:59.86,ExtraSciFi - EN,,0,0,0,,But there's an on-going debate
 Dialogue: 0,0:05:57.96,0:05:59.86,ExtraSciFi - 中文,,0,0,0,,但是人们依旧在争论
+Dialogue: 0,0:05:57.90,0:06:04.21,ExtraSciFi - 画面,,0,0,0,,{\fs60\frx326\fry358\pos(937.333,584.667)}新
+Dialogue: 0,0:05:57.90,0:06:04.21,ExtraSciFi - 画面,,0,0,0,,{\fs60\frx326\fry358\pos(225.333,590)}旧
+Dialogue: 0,0:05:57.90,0:06:04.21,ExtraSciFi - 画面,,0,0,0,,{\fs60\c&H677DF0&\3c&H020203&\4c&H050506&\bord3\fscx134\fscy101\pos(723.555,156.666)}传 统
+Dialogue: 0,0:05:57.90,0:06:04.21,ExtraSciFi - 画面,,0,0,0,,{\fs60\c&HA99A62&\bord2\fscx134\fscy101\frz349.3\frx28\fry354\3c&H010102&\pos(679.556,289.999)}科幻
 Dialogue: 0,0:05:59.86,0:06:04.17,ExtraSciFi - EN,,0,0,0,,as to whether sci-fi itself is part of the classic tradition or something new,
 Dialogue: 0,0:05:59.86,0:06:04.17,ExtraSciFi - 中文,,0,0,0,,科幻自身到底是属于古典传统还是新的类型
 Dialogue: 0,0:06:04.26,0:06:08.21,ExtraSciFi - EN,,0,0,0,,and as great works of science fiction pour in from all over the globe,
 Dialogue: 0,0:06:04.26,0:06:08.21,ExtraSciFi - 中文,,0,0,0,,而且由于世界各地优秀的科幻作品层出不穷
+Dialogue: 0,0:06:04.21,0:06:09.71,ExtraSciFi - 画面,,0,0,0,,{\frz6.189\bord2\frx10\fry36\pos(314.667,544.667)}洛伊丝·莫玛丝特·布约德
+Dialogue: 0,0:06:04.21,0:06:09.71,ExtraSciFi - 画面,,0,0,0,,{\c&H4F5738&\fs70\pos(252,358)\frx14\fry32\frz354.5\bord2s}自由落体
+Dialogue: 0,0:06:04.21,0:06:09.71,ExtraSciFi - 画面,,0,0,0,,{\c&H000103&\fs45\bord2\frz17.87\frx20\fry28\pos(364,210.001)}阿西莫夫
+Dialogue: 0,0:06:04.21,0:06:09.71,ExtraSciFi - 画面,,0,0,0,,{\c&H000103&\fs45\bord2\frx34\fry18\frz14.72\pos(298.667,111.334)}机器人之梦
+Dialogue: 0,0:06:04.21,0:06:09.71,ExtraSciFi - 画面,,0,0,0,,{\c&H000103&\fs45\bord2\frz1.266\frx6\fry32\pos(544,314.001)}勒吉恩
+Dialogue: 0,0:06:04.21,0:06:09.71,ExtraSciFi - 画面,,0,0,0,,{\c&H000103&\fs45\bord2\frx8\fry34\frz356.8\pos(537.333,174.001)}一无所有
+Dialogue: 0,0:06:04.21,0:06:09.71,ExtraSciFi - 画面,,0,0,0,,{\c&H000103&\fs45\bord2\frx12\fry42\frz339.2\pos(567.999,436.668)}索拉里斯星
+Dialogue: 0,0:06:04.21,0:06:09.71,ExtraSciFi - 画面,,0,0,0,,{\c&H000103&\fs45\bord2\frz343.3\frx14\fry30\pos(542.665,556.668)}莱姆
+Dialogue: 0,0:06:04.21,0:06:09.71,ExtraSciFi - 画面,,0,0,0,,{\c&H000103&\fs45\bord2\frz15.76\frx24\fry24\pos(835.998,183.335)}巴特勒
+Dialogue: 0,0:06:04.21,0:06:09.71,ExtraSciFi - 画面,,0,0,0,,{\c&H000103&\fs45\bord2\frz15.76\frx24\fry24\pos(773.331,84.669)}雏鸟
+Dialogue: 0,0:06:04.21,0:06:09.71,ExtraSciFi - 画面,,0,0,0,,{\c&H000103&\fs45\bord2\frz354.2\frx12\fry16\pos(754.664,298.002)}神经漫游者
+Dialogue: 0,0:06:04.21,0:06:09.71,ExtraSciFi - 画面,,0,0,0,,{\c&H000103&\fs45\bord2\frx12\fry16\fn@汉仪乐喵体简\frz261.4\pos(753.33,436.668)}吉布森
+Dialogue: 0,0:06:04.21,0:06:09.71,ExtraSciFi - 画面,,0,0,0,,{\c&H000103&\fs75\bord2\frz14.31\frx38\fry314\pos(1023.997,88.668)}沙丘
+Dialogue: 0,0:06:04.21,0:06:09.71,ExtraSciFi - 画面,,0,0,0,,{\c&H000103&\fs70\bord2\frz14.31\frx38\fry314\pos(943.997,282.001)}赫伯特
+Dialogue: 0,0:06:04.21,0:06:09.71,ExtraSciFi - 画面,,0,0,0,,{\c&H000103&\fs70\bord2\frz342.5\frx352\fry6\pos(1094.397,611.601)}华氏451度
 Dialogue: 0,0:06:08.21,0:06:09.69,ExtraSciFi - EN,,0,0,0,,bringing in new traditions,
 Dialogue: 0,0:06:08.21,0:06:09.69,ExtraSciFi - 中文,,0,0,0,,正在形成新的传统
 Dialogue: 0,0:06:09.72,0:06:12.09,ExtraSciFi - EN,,0,0,0,,that question becomes even more complex.
 Dialogue: 0,0:06:09.72,0:06:12.09,ExtraSciFi - 中文,,0,0,0,,因此这个问题变得更加复杂
+Dialogue: 0,0:06:09.73,0:06:12.17,ExtraSciFi - 画面,,0,0,0,,{\fs60\frx326\fry358\pos(937.333,584.667)}新
+Dialogue: 0,0:06:09.73,0:06:12.17,ExtraSciFi - 画面,,0,0,0,,{\fs60\frx326\fry358\pos(225.333,590)}旧
+Dialogue: 0,0:06:09.73,0:06:12.17,ExtraSciFi - 画面,,0,0,0,,{\fs60\c&H677DF0&\3c&H020203&\4c&H050506&\bord3\fscx134\fscy101\pos(723.555,156.666)}传 统
+Dialogue: 0,0:06:09.73,0:06:12.17,ExtraSciFi - 画面,,0,0,0,,{\fs60\c&HA99A62&\bord2\fscx134\fscy101\frz349.3\frx28\fry354\3c&H010102&\pos(679.556,289.999)}科幻
 Dialogue: 0,0:06:12.15,0:06:15.05,ExtraSciFi - EN,,0,0,0,,But I should also mention how this tale is told.
 Dialogue: 0,0:06:12.15,0:06:15.05,ExtraSciFi - 中文,,0,0,0,,不过我还应当提一下，《弗兰肯斯坦》中的故事是如何讲述的
 Dialogue: 0,0:06:15.05,0:06:19.42,ExtraSciFi - EN,,0,0,0,,Through letters, relating a story told to a young man named Robert
@@ -292,6 +442,9 @@ Dialogue: 0,0:06:19.42,0:06:23.31,ExtraSciFi - EN,,0,0,0,,by the strange and wil
 Dialogue: 0,0:06:19.42,0:06:23.31,ExtraSciFi - 中文,,0,0,0,,他在冰河上发现了一位古怪而疯狂的科学家，科学家给他讲了这段故事
 Dialogue: 0,0:06:23.39,0:06:27.44,ExtraSciFi - EN,,0,0,0,,Frankenstein is actually a story within a story within a book.
 Dialogue: 0,0:06:23.39,0:06:27.44,ExtraSciFi - 中文,,0,0,0,,《弗兰肯斯坦》实际上是一个写在书中的故事中的故事
+Dialogue: 0,0:06:23.40,0:06:28.31,ExtraSciFi - 画面,,0,0,0,,{\c&H6B6D4D&\fs80\b0\fn汉仪尚巍小时候简\bord3\fscx168\fscy112\frz2.603\pos(608,329.2)\clip(336,252.8,920,336)}弗兰肯斯坦
+Dialogue: 0,0:06:23.40,0:06:28.31,ExtraSciFi - 画面,,0,0,0,,{\c&H32544C&\fs80\b0\fn汉仪尚巍小时候简\bord3\fscx168\fscy112\frz2.603\pos(608,329.2)\clip(m 326 275 b 310 294 436 311 539 281 569 286 592 302 641 274 623 286 652 275 705 278 747 285 753 277 780 271 847 270 831 284 916 275 880 274 933 249 916 258)}弗兰肯斯坦
+Dialogue: 0,0:06:23.40,0:06:28.31,ExtraSciFi - 画面,,0,0,0,,{\c&H588E80&\fs80\b0\fn汉仪尚巍小时候简\bord3\fscx168\fscy112\frz2.603\pos(608,329.2)\clip(m 324 247 b 323 275 322 267 327 301 371 266 471 263 493 277 565 276 566 252 601 271 660 253 662 273 701 263 756 273 735 246 903 262 820 232 943 260 878 244)}弗兰肯斯坦
 Dialogue: 0,0:06:27.44,0:06:31.67,ExtraSciFi - EN,,0,0,0,,The whole work is actually an epistolary novel, although that's easy to forget.
 Dialogue: 0,0:06:27.44,0:06:31.67,ExtraSciFi - 中文,,0,0,0,,整部作品实际上是一本书信体小说，尽管读者很容易忘记这一点
 Dialogue: 0,0:06:31.67,0:06:33.90,ExtraSciFi - EN,,0,0,0,,And this allows us a juxtaposition.
@@ -313,16 +466,29 @@ Dialogue: 0,0:06:53.34,0:06:55.71,ExtraSciFi - 中文,,0,0,0,,她想让我们思
 Dialogue: 0,0:06:55.76,0:06:59.24,ExtraSciFi - EN,,0,0,0,,And, while we rarely see this particular framing device again,
 Dialogue: 0,0:06:55.76,0:06:59.24,ExtraSciFi - 中文,,0,0,0,,虽然我们之后很少再见到这样特别的“故事中的故事”
 Dialogue: 0,0:06:59.24,0:07:02.16,ExtraSciFi - EN,,0,0,0,,it's important because it kicks off a long tradition
-Dialogue: 0,0:06:59.24,0:07:02.16,ExtraSciFi - 中文,,0,0,0,,但是它很重要，因为这开创了一个长期的传统
+Dialogue: 0,0:06:59.24,0:07:02.16,ExtraSciFi - 中文,,0,0,0,,它依旧很重要，因为这开创了一个长期的传统
 Dialogue: 0,0:07:02.16,0:07:04.93,ExtraSciFi - EN,,0,0,0,,of science fiction using framing devices,
 Dialogue: 0,0:07:02.16,0:07:04.93,ExtraSciFi - 中文,,0,0,0,,即科幻作品开始使用“故事中的故事”的手法
+Dialogue: 0,0:07:04.88,0:07:11.64,ExtraSciFi - 画面,,0,0,0,,{\fs75\frz353.5\c&HE1CFB5&\3c&H020203&\4c&H0F0F10&\bord2\pos(340.8,84.4)\frx32\fry346}我如何
+Dialogue: 0,0:07:04.88,0:07:11.64,ExtraSciFi - 画面,,0,0,0,,{\fs75\frz353.5\c&HE1CFB5&\3c&H020203&\4c&H0F0F10&\bord2\pos(310.4,148.4)\frx32\fry346}拯救
+Dialogue: 0,0:07:04.88,0:07:11.64,ExtraSciFi - 画面,,0,0,0,,{\fs75\c&HE1CFB5&\3c&H020203&\4c&H0F0F10&\bord2\pos(286.4,196.4)\frx32\fry346\frz350.4}地球
+Dialogue: 0,0:07:04.88,0:07:11.64,ExtraSciFi - 画面,,0,0,0,,{\fs75\c&HE1CFB5&\3c&H020203&\4c&H0F0F10&\bord2\pos(268.8,247.6)\frx32\fry346\frz354.7}以及
+Dialogue: 0,0:07:04.88,0:07:11.64,ExtraSciFi - 画面,,0,0,0,,{\fs75\frz353.5\c&HE1CFB5&\3c&H020203&\4c&H0F0F10&\bord2\pos(241.6,305.2)\frx32\fry346}我是
+Dialogue: 0,0:07:04.88,0:07:11.64,ExtraSciFi - 画面,,0,0,0,,{\fs75\c&HE1CFB5&\3c&H020203&\4c&H0F0F10&\bord2\frx32\fry346\pos(216,374)\frz352.3}最伟大的
+Dialogue: 0,0:07:04.88,0:07:11.64,ExtraSciFi - 画面,,0,0,0,,{\fs75\c&H010101&\pos(161.6,458.8)\frx24\fry350\frz353.8}罗伯特·沃波尔
+Dialogue: 0,0:07:04.88,0:07:11.64,ExtraSciFi - 注释,,0,0,0,,{\fs35\pos(1113.6,574)}这里的书名是\N致敬《奇爱博士》\N\NDr. Strangelove\N Or: \NHow\N I Learned \NTo \NStop\NWorrying \NAnd\N Love\N The \NBomb
 Dialogue: 0,0:07:04.93,0:07:07.40,ExtraSciFi - EN,,0,0,0,,especially for the purpose of making us question
-Dialogue: 0,0:07:04.93,0:07:07.40,ExtraSciFi - 中文,,0,0,0,,尤其是想让我们怀疑
+Dialogue: 0,0:07:04.93,0:07:07.40,ExtraSciFi - 中文,,0,0,0,,尤其是用于让我们怀疑
 Dialogue: 0,0:07:07.40,0:07:10.73,ExtraSciFi - EN,,0,0,0,,just how reliable the central narrator really is.
 Dialogue: 0,0:07:07.40,0:07:10.73,ExtraSciFi - 中文,,0,0,0,,核心叙述者的可信度到底如何
 Dialogue: 0,0:07:10.77,0:07:12.73,ExtraSciFi - EN,,0,0,0,,And finally we have the title,
 Dialogue: 0,0:07:10.77,0:07:12.73,ExtraSciFi - 中文,,0,0,0,,最终我们有了这样的标题
 Dialogue: 0,0:07:12.73,0:07:14.78,ExtraSciFi - EN,,0,0,0,,or rather the alternate title,
+Dialogue: 0,0:07:11.66,0:07:17.67,ExtraSciFi - 画面,,0,0,0,,{\c&H6B6D4D&\fs80\b0\fn汉仪尚巍小时候简\bord3\fscx168\fscy112\frz2.603\pos(608,329.2)\clip(336,252.8,920,336)}弗兰肯斯坦
+Dialogue: 0,0:07:11.66,0:07:17.67,ExtraSciFi - 画面,,0,0,0,,{\c&H32544C&\fs80\b0\fn汉仪尚巍小时候简\bord3\fscx168\fscy112\frz2.603\pos(608,329.2)\clip(m 326 275 b 310 294 436 311 539 281 569 286 592 302 641 274 623 286 652 275 705 278 747 285 753 277 780 271 847 270 831 284 916 275 880 274 933 249 916 258)}弗兰肯斯坦
+Dialogue: 0,0:07:11.66,0:07:17.67,ExtraSciFi - 画面,,0,0,0,,{\c&H588E80&\fs80\b0\fn汉仪尚巍小时候简\bord3\fscx168\fscy112\frz2.603\pos(608,329.2)\clip(m 324 247 b 323 275 322 267 327 301 371 266 471 263 493 277 565 276 566 252 601 271 660 253 662 273 701 263 756 273 735 246 903 262 820 232 943 260 878 244)}弗兰肯斯坦
+Dialogue: 0,0:07:13.46,0:07:17.67,ExtraSciFi - 画面,,0,0,0,,{\fs100\fn汉仪尚巍小时候简\b0\c&H7185F8&\bord5\3c&H08080A&\4c&H0E0E0F&\pos(739.2,412.4)\frz4.325}现代
+Dialogue: 0,0:07:13.46,0:07:17.67,ExtraSciFi - 画面,,0,0,0,,{\fs100\fn汉仪尚巍小时候简\b0\c&H7185F8&\bord5\3c&H08080A&\4c&H0E0E0F&\pos(988.8,481.2)\frz3.021}普罗米修斯
 Dialogue: 0,0:07:12.73,0:07:14.78,ExtraSciFi - 中文,,0,0,0,,或者更确切地说，标题的别名
 Dialogue: 0,0:07:14.84,0:07:16.52,ExtraSciFi - EN,,0,0,0,,The Modern Prometheus.
 Dialogue: 0,0:07:14.84,0:07:16.52,ExtraSciFi - 中文,,0,0,0,,《现代普罗米修斯》
@@ -330,6 +496,9 @@ Dialogue: 0,0:07:16.52,0:07:19.41,ExtraSciFi - EN,,0,0,0,,On the surface level, 
 Dialogue: 0,0:07:16.52,0:07:19.41,ExtraSciFi - 中文,,0,0,0,,表面上看，这里的指涉很明显
 Dialogue: 0,0:07:19.47,0:07:22.41,ExtraSciFi - EN,,0,0,0,,Victor breathes life into inanimate flesh
 Dialogue: 0,0:07:19.47,0:07:22.41,ExtraSciFi - 中文,,0,0,0,,维克多为死掉的肉体赋予生命
+Dialogue: 0,0:07:22.35,0:07:28.17,ExtraSciFi - 画面,,0,0,0,,{\fs55\c&H6D9E60&\3c&H050506&\4c&H0A0A0B&\bord3\frx36\fry16\pos(725.6,128.4)\frz11.03}我是
+Dialogue: 0,0:07:22.35,0:07:28.17,ExtraSciFi - 画面,,0,0,0,,{\fs55\c&H6D9E60&\3c&H050506&\4c&H0A0A0B&\bord3\frx42\fry14\pos(747.467,168.4)\frz14.07}怎样
+Dialogue: 0,0:07:22.35,0:07:28.17,ExtraSciFi - 画面,,0,0,0,,{\fs55\c&H6D9E60&\3c&H050506&\4c&H0A0A0B&\bord3\frx36\fry16\pos(789.6,209.467)\frz13.29}做到的
 Dialogue: 0,0:07:22.41,0:07:24.89,ExtraSciFi - EN,,0,0,0,,and he brings knowledge at great cost,
 Dialogue: 0,0:07:22.41,0:07:24.89,ExtraSciFi - 中文,,0,0,0,,以巨大代价换来知识
 Dialogue: 0,0:07:24.89,0:07:28.12,ExtraSciFi - EN,,0,0,0,,which would certainly qualify him as The Modern Prometheus
@@ -338,18 +507,40 @@ Dialogue: 0,0:07:28.18,0:07:30.59,ExtraSciFi - EN,,0,0,0,,but the novel makes a 
 Dialogue: 0,0:07:28.18,0:07:30.59,ExtraSciFi - 中文,,0,0,0,,然而小说强调
 Dialogue: 0,0:07:30.59,0:07:33.34,ExtraSciFi - EN,,0,0,0,,that he never actually shares that knowledge,
 Dialogue: 0,0:07:30.59,0:07:33.34,ExtraSciFi - 中文,,0,0,0,,事实上他从未分享过那些知识
+Dialogue: 0,0:07:33.38,0:07:37.19,ExtraSciFi - 画面,,0,0,0,,{\fs85\frx24\fry352\frz350.3\pos(1022.4,222)\c&H69B360&\3c&H020203&\bord4}我是
+Dialogue: 0,0:07:33.38,0:07:37.19,ExtraSciFi - 画面,,0,0,0,,{\fs85\frx24\fry352\frz350.3\c&H69B360&\3c&H020203&\bord4\pos(990.4,316.4)}怎样
+Dialogue: 0,0:07:33.38,0:07:37.19,ExtraSciFi - 画面,,0,0,0,,{\fs85\frx24\fry352\frz350.3\pos(956.8,417.2)\c&H69B360&\3c&H020203&\bord4}做到的
 Dialogue: 0,0:07:33.44,0:07:37.09,ExtraSciFi - EN,,0,0,0,,no one ever finds out how he made his reanimated man.
 Dialogue: 0,0:07:33.44,0:07:37.09,ExtraSciFi - 中文,,0,0,0,,没人知道他是如何使人死而复生的
 Dialogue: 0,0:07:37.19,0:07:40.34,ExtraSciFi - EN,,0,0,0,,So the Prometheus label doesn't entirely fit him.
 Dialogue: 0,0:07:37.19,0:07:40.34,ExtraSciFi - 中文,,0,0,0,,所以“普罗米修斯”的称号并不完全贴切
+Dialogue: 0,0:07:37.20,0:07:41.99,ExtraSciFi - 画面,,0,0,0,,{\fs80\pos(654.4,602.8)\c&H5FA24E&\3c&H050506&\4c&H0B0B0C&\bord4}普罗米修斯
 Dialogue: 0,0:07:40.39,0:07:41.72,ExtraSciFi - EN,,0,0,0,,But if not Victor,
 Dialogue: 0,0:07:40.39,0:07:41.72,ExtraSciFi - 中文,,0,0,0,,所以如果不是维克多
 Dialogue: 0,0:07:41.72,0:07:44.57,ExtraSciFi - EN,,0,0,0,,then who is this alternate title referring to?
 Dialogue: 0,0:07:41.72,0:07:44.57,ExtraSciFi - 中文,,0,0,0,,那么这个标题的别名指的是谁呢
 Dialogue: 0,0:07:44.70,0:07:47.16,ExtraSciFi - EN,,0,0,0,,It refers to the scientific method.
 Dialogue: 0,0:07:44.70,0:07:47.16,ExtraSciFi - 中文,,0,0,0,,其实指的是科学方法
+Dialogue: 0,0:07:42.00,0:07:45.54,ExtraSciFi - 画面,,0,0,0,,{\fs80\c&H5FA24E&\3c&H050506&\4c&H0B0B0C&\bord4\pos(363.467,582)}普罗米修斯
+Dialogue: 0,0:07:45.55,0:07:47.61,ExtraSciFi - 画面,,0,0,0,,{\frz4.243\pos(654.4,105.2)}提出问题
+Dialogue: 0,0:07:45.55,0:07:47.61,ExtraSciFi - 画面,,0,0,0,,{\frz4.581\pos(649.6,201.2)}背景调研
+Dialogue: 0,0:07:45.55,0:07:47.61,ExtraSciFi - 画面,,0,0,0,,{\frz3.341\pos(662.4,305.2)}作出假设
+Dialogue: 0,0:07:45.55,0:07:47.61,ExtraSciFi - 画面,,0,0,0,,{\frz3.341\pos(670.4,407.6)}实验测试
+Dialogue: 0,0:07:45.55,0:07:47.61,ExtraSciFi - 画面,,0,0,0,,{\frz3.341\pos(824,474.8)}分析结果
+Dialogue: 0,0:07:45.55,0:07:47.61,ExtraSciFi - 画面,,0,0,0,,{\frz3.341\pos(830.4,550)}给出结论
+Dialogue: 0,0:07:45.55,0:07:47.61,ExtraSciFi - 画面,,0,0,0,,{\frz3.341\pos(600,542)}假设正确
+Dialogue: 0,0:07:45.55,0:07:47.61,ExtraSciFi - 画面,,0,0,0,,{\frz0.9541\pos(1177.6,487.6)}假设错误
+Dialogue: 0,0:07:45.55,0:07:47.61,ExtraSciFi - 画面,,0,0,0,,{\frz0.9541\pos(1177.6,530.8)}或部分正确
+Dialogue: 0,0:07:45.55,0:07:47.61,ExtraSciFi - 画面,,0,0,0,,{\frz0.9541\pos(825.6,620.4)}报告结果
+Dialogue: 0,0:07:45.55,0:07:47.61,ExtraSciFi - 画面,,0,0,0,,{\frz0.9541\pos(1163.2,185.2)}思考
+Dialogue: 0,0:07:45.55,0:07:47.61,ExtraSciFi - 画面,,0,0,0,,{\frz0.9541\pos(1169.6,231.6)}再次尝试
+Dialogue: 0,0:07:45.55,0:07:47.61,ExtraSciFi - 画面,,0,0,0,,{\frz0.9541\fs70\c&H7186F7&\3c&H080809&\4c&H0D0D0E&\bord3\pos(216,142)}现代
+Dialogue: 0,0:07:45.55,0:07:47.61,ExtraSciFi - 画面,,0,0,0,,{\frz0.9541\fs70\c&H7186F7&\3c&H080809&\4c&H0D0D0E&\bord3\pos(408,188.4)}普罗米修斯
+Dialogue: 0,0:07:45.55,0:07:47.61,ExtraSciFi - 画面,,0,0,0,,{\frz0.9541\fs65\c&HE2C797&\3c&H080809&\4c&H0D0D0E&\bord3\pos(435.2,502)}科学方法
+Dialogue: 0,0:07:45.55,0:07:47.61,ExtraSciFi - 画面,,0,0,0,,{\frz0.9541\fs55\c&HA0F0AC&\3c&H080809&\4c&H0D0D0E&\bord3\pos(526.4,418.8)}是
 Dialogue: 0,0:07:47.16,0:07:50.32,ExtraSciFi - EN,,0,0,0,,It's this approach to the world that offers us so much,
 Dialogue: 0,0:07:47.16,0:07:50.32,ExtraSciFi - 中文,,0,0,0,,完全是科学方法的功劳，才给予了我们如此之多
+Dialogue: 0,0:07:47.61,0:07:52.51,ExtraSciFi - 画面,,0,0,0,,{\fs80\c&HE4C698&\3c&H060607&\4c&H000000&\bord3\pos(825.6,524.4)}科学方法
 Dialogue: 0,0:07:50.32,0:07:52.49,ExtraSciFi - EN,,0,0,0,,that brings mankind so much,
 Dialogue: 0,0:07:50.32,0:07:52.49,ExtraSciFi - 中文,,0,0,0,,给人类带来了如此之多
 Dialogue: 0,0:07:52.49,0:07:53.79,ExtraSciFi - EN,,0,0,0,,but at what cost?
@@ -358,16 +549,28 @@ Dialogue: 0,0:07:53.84,0:07:56.99,ExtraSciFi - EN,,0,0,0,,In the end, what will 
 Dialogue: 0,0:07:53.84,0:07:56.99,ExtraSciFi - 中文,,0,0,0,,最终，这些奇迹的代价是什么
 Dialogue: 0,0:07:57.07,0:08:00.58,ExtraSciFi - EN,,0,0,0,,We are asked this time and time again in science fiction,
 Dialogue: 0,0:07:57.07,0:08:00.58,ExtraSciFi - 中文,,0,0,0,,我们在科幻中一次又一次地被问到这个问题
+Dialogue: 0,0:07:57.03,0:08:03.11,ExtraSciFi - 画面,,0,0,0,,{\fn华文隶书\frx342\fry352\fs40\frz350.4\pos(636.8,348.4)\c&H7F6A33&\3c&HF1F1F5&\bord}我们玩个游戏吧？
+Dialogue: 0,0:07:57.03,0:08:03.11,ExtraSciFi - 注释,,0,0,0,,{\pos(262.4,321.2)}这个场景出自\N1983年的科幻电影\N《战争游戏》
 Dialogue: 0,0:08:00.58,0:08:03.23,ExtraSciFi - EN,,0,0,0,,it's one of sci-fi's most enduring themes.
 Dialogue: 0,0:08:00.58,0:08:03.23,ExtraSciFi - 中文,,0,0,0,,它是科幻中一个最永恒的主题
 Dialogue: 0,0:08:03.23,0:08:05.59,ExtraSciFi - EN,,0,0,0,,From the Martian Chronicles, to Pump Six,
 Dialogue: 0,0:08:03.23,0:08:05.59,ExtraSciFi - 中文,,0,0,0,,从《火星纪事》到《六号泵》
 Dialogue: 0,0:08:05.59,0:08:07.07,ExtraSciFi - EN,,0,0,0,,Terminator, to the Matrix,
+Dialogue: 0,0:08:03.11,0:08:07.41,ExtraSciFi - 画面,,0,0,0,,{\fs60\frz8.022\frx18\fry326\pos(184,82.8)}火星纪事
+Dialogue: 0,0:08:03.11,0:08:07.41,ExtraSciFi - 画面,,0,0,0,,{\fs60\frz8.022\frx18\fry326\pos(140.8,329.2)}布莱伯利
+Dialogue: 0,0:08:04.63,0:08:07.41,ExtraSciFi - 画面,,0,0,0,,{\fs65\frz1.133\frx24\fry342\pos(472,145.2)\c&HA0CA67&\3c&H030304&\4c&H050506&\bord2}六号泵
+Dialogue: 0,0:08:04.63,0:08:07.41,ExtraSciFi - 画面,,0,0,0,,{\fs60\frz1.133\frx24\fry342\pos(404.8,407.6)}巴奇加卢比
+Dialogue: 0,0:08:05.53,0:08:07.41,ExtraSciFi - 画面,,0,0,0,,{\fs65\frz1.133\frx24\fry342\pos(739.2,212.4)}终结者{\c&H75D5EB&\3c&H070708&\4c&H030304&\bord3}2
+Dialogue: 0,0:08:05.53,0:08:07.41,ExtraSciFi - 画面,,0,0,0,,{\fs65\frx32\fry14\frz355.1\c&H29531F&\pos(1040,132.4)}黑客帝国
 Dialogue: 0,0:08:05.59,0:08:07.07,ExtraSciFi - 中文,,0,0,0,,从《终结者》到《黑客帝国》
 Dialogue: 0,0:08:07.08,0:08:09.42,ExtraSciFi - EN,,0,0,0,,we see it again and again and again.
 Dialogue: 0,0:08:07.08,0:08:09.42,ExtraSciFi - 中文,,0,0,0,,我们一次又一次地看到同样的主题
 Dialogue: 0,0:08:09.42,0:08:10.96,ExtraSciFi - EN,,0,0,0,,And I think It's important to note,
 Dialogue: 0,0:08:09.42,0:08:10.96,ExtraSciFi - 中文,,0,0,0,,我觉得有必要指出
+Dialogue: 0,0:08:10.91,0:08:13.71,ExtraSciFi - 画面,,0,0,0,,{\c&H7084F6&\3c&H020203&\4c&H111113&\bord4\fs80\pos(310.4,106.8)\frz4.816}现代
+Dialogue: 0,0:08:10.91,0:08:13.71,ExtraSciFi - 画面,,0,0,0,,{\c&H7084F6&\3c&H020203&\4c&H111113&\bord4\fs80\pos(516.8,169.2)\frz5.646}普罗米修斯
+Dialogue: 0,0:08:10.91,0:08:13.71,ExtraSciFi - 画面,,0,0,0,,{\3c&H020203&\4c&H111113&\bord4\fs80\frz0.8749\pos(822.4,441.2)}{\c&H54C0DE&}新
+Dialogue: 0,0:08:10.91,0:08:13.71,ExtraSciFi - 画面,,0,0,0,,{\3c&H020203&\4c&H111113&\bord4\fs80\frz0.8749\pos(972.8,502)}{\c&HBAE8F5&}伊卡洛斯
 Dialogue: 0,0:08:10.96,0:08:13.72,ExtraSciFi - EN,,0,0,0,,the alternate title isn't The New Icarus.
 Dialogue: 0,0:08:10.96,0:08:13.72,ExtraSciFi - 中文,,0,0,0,,标题的别名并不是《新伊卡洛斯》
 Dialogue: 0,0:08:13.72,0:08:17.02,ExtraSciFi - EN,,0,0,0,,Prometheus's story isn't a flew too close to the sun,
@@ -384,6 +587,21 @@ Dialogue: 0,0:08:25.60,0:08:28.22,ExtraSciFi - EN,,0,0,0,,The greatest good come
 Dialogue: 0,0:08:25.60,0:08:28.22,ExtraSciFi - 中文,,0,0,0,,至善之举必经此番牺牲
 Dialogue: 0,0:08:28.44,0:08:30.68,ExtraSciFi - EN,,0,0,0,,These books, these works of art
 Dialogue: 0,0:08:28.44,0:08:30.68,ExtraSciFi - 中文,,0,0,0,,这些书籍，这些艺术品
+Dialogue: 0,0:08:28.40,0:08:34.31,ExtraSciFi - 画面,,0,0,0,,{\frz6.189\bord2\frx10\fry36\pos(314.667,544.667)}洛伊丝·莫玛丝特·布约德
+Dialogue: 0,0:08:28.40,0:08:34.31,ExtraSciFi - 画面,,0,0,0,,{\c&H4F5738&\fs70\pos(252,358)\frx14\fry32\frz354.5\bord2s}自由落体
+Dialogue: 0,0:08:28.40,0:08:34.31,ExtraSciFi - 画面,,0,0,0,,{\c&H000103&\fs45\bord2\frz17.87\frx20\fry28\pos(364,210.001)}阿西莫夫
+Dialogue: 0,0:08:28.40,0:08:34.31,ExtraSciFi - 画面,,0,0,0,,{\c&H000103&\fs45\bord2\frx34\fry18\frz14.72\pos(298.667,111.334)}机器人之梦
+Dialogue: 0,0:08:28.40,0:08:34.31,ExtraSciFi - 画面,,0,0,0,,{\c&H000103&\fs45\bord2\frz1.266\frx6\fry32\pos(544,314.001)}勒吉恩
+Dialogue: 0,0:08:28.40,0:08:34.31,ExtraSciFi - 画面,,0,0,0,,{\c&H000103&\fs45\bord2\frx8\fry34\frz356.8\pos(537.333,174.001)}一无所有
+Dialogue: 0,0:08:28.40,0:08:34.31,ExtraSciFi - 画面,,0,0,0,,{\c&H000103&\fs45\bord2\frx12\fry42\frz339.2\pos(567.999,436.668)}索拉里斯星
+Dialogue: 0,0:08:28.40,0:08:34.31,ExtraSciFi - 画面,,0,0,0,,{\c&H000103&\fs45\bord2\frz343.3\frx14\fry30\pos(542.665,556.668)}莱姆
+Dialogue: 0,0:08:28.40,0:08:34.31,ExtraSciFi - 画面,,0,0,0,,{\c&H000103&\fs45\bord2\frz15.76\frx24\fry24\pos(835.998,183.335)}巴特勒
+Dialogue: 0,0:08:28.40,0:08:34.31,ExtraSciFi - 画面,,0,0,0,,{\c&H000103&\fs45\bord2\frz15.76\frx24\fry24\pos(773.331,84.669)}雏鸟
+Dialogue: 0,0:08:28.40,0:08:34.31,ExtraSciFi - 画面,,0,0,0,,{\c&H000103&\fs45\bord2\frz354.2\frx12\fry16\pos(754.664,298.002)}神经漫游者
+Dialogue: 0,0:08:28.40,0:08:34.31,ExtraSciFi - 画面,,0,0,0,,{\c&H000103&\fs45\bord2\frx12\fry16\fn@汉仪乐喵体简\frz261.4\pos(753.33,436.668)}吉布森
+Dialogue: 0,0:08:28.40,0:08:34.31,ExtraSciFi - 画面,,0,0,0,,{\c&H000103&\fs75\bord2\frz14.31\frx38\fry314\pos(1023.997,88.668)}沙丘
+Dialogue: 0,0:08:28.40,0:08:34.31,ExtraSciFi - 画面,,0,0,0,,{\c&H000103&\fs70\bord2\frz14.31\frx38\fry314\pos(943.997,282.001)}赫伯特
+Dialogue: 0,0:08:28.40,0:08:34.31,ExtraSciFi - 画面,,0,0,0,,{\c&H000103&\fs70\bord2\frz342.5\frx352\fry6\pos(1094.397,611.601)}华氏451度
 Dialogue: 0,0:08:30.68,0:08:34.36,ExtraSciFi - EN,,0,0,0,,that examine the farthest edge of where our science might lead us
 Dialogue: 0,0:08:30.68,0:08:34.36,ExtraSciFi - 中文,,0,0,0,,探索着科学发展最遥远的边界
 Dialogue: 0,0:08:34.36,0:08:36.11,ExtraSciFi - EN,,0,0,0,,can be cautionary tales
@@ -396,14 +614,33 @@ Dialogue: 0,0:08:42.89,0:08:47.05,ExtraSciFi - EN,,0,0,0,,while, at the same tim
 Dialogue: 0,0:08:42.89,0:08:47.05,ExtraSciFi - 中文,,0,0,0,,同时也规劝我们，要比他们的主角更明智
 Dialogue: 0,0:08:47.15,0:08:49.17,ExtraSciFi - EN,,0,0,0,,So now that we're on firm ground with
 Dialogue: 0,0:08:47.15,0:08:49.17,ExtraSciFi - 中文,,0,0,0,,所以既然我们现在已经熟悉了
+Dialogue: 0,0:08:47.15,0:08:51.94,ExtraSciFi - 画面,,0,0,0,,{\fs40\frz343.5\pos(446.4,367.6)}弗兰肯斯坦
+Dialogue: 0,0:08:47.15,0:08:51.94,ExtraSciFi - 画面,,0,0,0,,{\fs40\frz343.5\pos(404.8,505.2)}玛丽·雪莱
 Dialogue: 0,0:08:49.17,0:08:51.95,ExtraSciFi - EN,,0,0,0,,Frankenstein's place in the history of science fiction.
 Dialogue: 0,0:08:49.17,0:08:51.95,ExtraSciFi - 中文,,0,0,0,,《弗兰肯斯坦》在科幻史上的地位
+Dialogue: 0,0:08:51.96,0:08:54.04,ExtraSciFi - 画面,,0,0,0,,{\c&H6B6D4D&\fs80\b0\fn汉仪尚巍小时候简\bord3\fscx168\fscy112\pos(846.4,289.2)}弗兰肯斯坦
+Dialogue: 0,0:08:51.96,0:08:54.04,ExtraSciFi - 画面,,0,0,0,,{\c&H32544C&\fs80\b0\fn汉仪尚巍小时候简\bord3\fscx168\fscy112\pos(846.4,289.2)\clip(m 569 221 b 569 230 526 262 635 245 666 245 667 249 699 248 731 246 730 236 792 264 812 232 835 248 885 252 866 232 865 239 937 244 975 226 955 259 972 247 990 231 998 255 1022 249 1053 244 1074 230 1152 270 1111 230 1176 261 1159 204)}弗兰肯斯坦
+Dialogue: 0,0:08:51.96,0:08:54.04,ExtraSciFi - 画面,,0,0,0,,{\c&H588E80&\fs80\b0\fn汉仪尚巍小时候简\bord3\fscx168\fscy112\pos(846.4,289.2)\clip(m 568 201 b 567 229 566 221 566 236 615 220 715 217 737 221 809 230 810 206 845 222 901 216 902 243 1013 225 985 249 979 200 1152 242 1064 186 1147 224 1118 210)}弗兰肯斯坦
 Dialogue: 0,0:08:52.02,0:08:54.19,ExtraSciFi - EN,,0,0,0,,join us next week as we begin to talk about
 Dialogue: 0,0:08:52.02,0:08:54.19,ExtraSciFi - 中文,,0,0,0,,那么欢迎下周继续收看，我们将开始讨论
 Dialogue: 0,0:08:54.20,0:08:57.95,ExtraSciFi - EN,,0,0,0,,all the other works that Shelley references throughout this great piece,
 Dialogue: 0,0:08:54.20,0:08:57.95,ExtraSciFi - 中文,,0,0,0,,在雪莱的这本名著中提到的其他作品
+Dialogue: 1,0:08:54.06,0:09:00.17,ExtraSciFi - 画面,,0,0,0,,{\fs66\frz8.453\frx43\fry20\pos(241.332,224.335)}失乐园
+Dialogue: 1,0:08:54.06,0:09:00.17,ExtraSciFi - 画面,,0,0,0,,{\fs55\frz12.91\frx37\fry22\pos(370.665,373.667)}弥尔顿
+Dialogue: 1,0:08:54.06,0:09:00.17,ExtraSciFi - 画面,,0,0,0,,{\frz3.121\frx23\fry8\pos(563.999,68.335)\fs66}神曲
+Dialogue: 1,0:08:54.06,0:09:00.17,ExtraSciFi - 画面,,0,0,0,,{\fs66\frz3.121\frx23\fry8\pos(571.999,309.668)}但丁
+Dialogue: 1,0:08:54.06,0:09:00.17,ExtraSciFi - 画面,,0,0,0,,{\fs76\frz357.9\frx19\fry348\pos(973.333,171.002)}少年维特\N之烦恼
+Dialogue: 1,0:08:54.06,0:09:00.17,ExtraSciFi - 画面,,0,0,0,,{\fs76\frx19\fry348\frz349.9\pos(825.333,528.336)}歌德
 Dialogue: 0,0:08:57.95,0:09:02.57,ExtraSciFi - EN,,0,0,0,,and as we discuss how those works help us to better understand her own.
 Dialogue: 0,0:08:57.95,0:09:02.57,ExtraSciFi - 中文,,0,0,0,,以及这些作品如何帮助我们更好地理解雪莱的思想
+Dialogue: 1,0:09:00.20,0:09:02.71,ExtraSciFi - 画面,,0,0,0,,{\fs51\\frz8.453\frx43\fry20\pos(614.665,171.001)}失乐园
+Dialogue: 1,0:09:00.20,0:09:02.71,ExtraSciFi - 画面,,0,0,0,,{\fs40\frz12.91\frx37\fry22\pos(693.332,268.333)}弥尔顿
+Dialogue: 1,0:09:00.20,0:09:02.67,ExtraSciFi - 画面,,0,0,0,,{\fs51\frz3.121\frx23\fry8\pos(818.666,59.002)}神曲
+Dialogue: 1,0:09:00.20,0:09:02.67,ExtraSciFi - 画面,,0,0,0,,{\fs51\frz3.121\frx23\fry8\pos(833.332,221.668)}但丁
+Dialogue: 1,0:09:00.20,0:09:02.64,ExtraSciFi - 画面,,0,0,0,,{\fs56\frz357.9\frx19\fry348\pos(1101.332,128.336)}少年维特\N之烦恼
+Dialogue: 1,0:09:00.20,0:09:02.64,ExtraSciFi - 画面,,0,0,0,,{\fs56\frx19\fry348\frz351.4\pos(1001.332,379.003)}歌德
+Dialogue: 0,0:09:00.20,0:09:02.74,ExtraSciFi - 画面,,0,0,0,,{\frz343.5\fs35\pos(507.999,359.332)}弗兰肯斯坦
+Dialogue: 0,0:09:00.20,0:09:02.74,ExtraSciFi - 画面,,0,0,0,,{\frz343.5\fs35\pos(463.999,500.665)}玛丽·雪莱
 Dialogue: 1,0:09:02.82,0:09:07.34,制作人员,,0,0,0,,{\pos(1150,122)}文案\NJames Portnow
 Dialogue: 1,0:09:02.82,0:09:07.34,制作人员,,0,0,0,,{\pos(1150,201)}旁白 & 制作\NDaniel Floyd
 Dialogue: 1,0:09:02.82,0:09:07.34,制作人员,,0,0,0,,{\pos(1150,282)}编辑\NCarrie Floyd
@@ -411,6 +648,7 @@ Dialogue: 1,0:09:02.82,0:09:07.34,制作人员,,0,0,0,,{\pos(1150,362)}美术\ND
 Dialogue: 1,0:09:02.82,0:09:07.34,制作人员,,0,0,0,,{\an5\pos(1150,442)}译注 & 校对\NHansimov
 Dialogue: 1,0:09:02.82,0:09:07.34,制作人员,,0,0,0,,{\pos(1150, 522)}时间轴 & 字幕\NHansimov
 Dialogue: 1,0:09:03.95,0:09:17.77,订阅,,0,0,0,,{\pos(1173,710)}订阅！
-Dialogue: 1,0:09:07.35,0:09:12.11,制作人员,,0,0,0,,{\pos(1150,250)}音乐\N"Hypothetical"\N作曲\NSurasshu
+Dialogue: 1,0:09:07.35,0:09:12.11,制作人员,,0,0,0,,{\pos(1150,218)}音乐\N"Hypothetical"
+Dialogue: 1,0:09:07.35,0:09:12.11,制作人员,,0,0,0,,{\pos(1146.8,286.8)}作曲\NSurasshu
 Dialogue: 1,0:09:12.12,0:09:17.77,制作人员,,0,0,0,,{\pos(1145,210)}你希望\NJames到你的\N学校或组织\N演讲吗？
 Dialogue: 1,0:09:12.12,0:09:17.77,制作人员,,0,0,0,,{\pos(1150,330)}联系我们\N{\fs23}contact@extra-credits.net
