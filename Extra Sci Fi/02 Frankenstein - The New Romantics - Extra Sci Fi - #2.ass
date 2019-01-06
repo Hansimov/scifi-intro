@@ -10,14 +10,14 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
-Audio File: H:/公开课/scifi-intro/Extra Sci Fi/02 Frankenstein - The New Romantics - Extra Sci Fi - #2.mp4
-Video File: H:/公开课/scifi-intro/Extra Sci Fi/02 Frankenstein - The New Romantics - Extra Sci Fi - #2.mp4
+Audio File: 02 Frankenstein - The New Romantics - Extra Sci Fi - #2.mp4
+Video File: 02 Frankenstein - The New Romantics - Extra Sci Fi - #2.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 141
-Active Line: 145
-Video Position: 13957
+Scroll Position: 75
+Active Line: 85
+Video Position: 4156
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,148 +34,294 @@ Style: ExtraSciFi - 注释,微软雅黑,32,&H00216129,&H00EEEEF4,&H00F2F2F2,&H00
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.13,0:00:02.03,ExtraSciFi - EN,,0,0,0,,"If the time should ever come when,
+Dialogue: 0,0:00:00.13,0:00:02.03,ExtraSciFi - 中文,,0,0,0,,如果有朝一日
 Dialogue: 0,0:00:02.04,0:00:05.31,ExtraSciFi - EN,,0,0,0,,what is now called science, thus familiarized to men,
+Dialogue: 0,0:00:02.04,0:00:05.31,ExtraSciFi - 中文,,0,0,0,,现在所谓的科学，这样为人所熟知
 Dialogue: 0,0:00:05.31,0:00:09.34,ExtraSciFi - EN,,0,0,0,,shall be ready to put on, as it were, a form of flesh and blood,
+Dialogue: 0,0:00:05.31,0:00:09.34,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:00:09.38,0:00:13.87,ExtraSciFi - EN,,0,0,0,,the Poet will lend his divine spirit to aid the transfiguration,
+Dialogue: 0,0:00:09.38,0:00:13.87,ExtraSciFi - 中文,,0,0,0,,诗人们则会以，
 Dialogue: 0,0:00:13.87,0:00:16.49,ExtraSciFi - EN,,0,0,0,,and will welcome the Being thus produced,
+Dialogue: 0,0:00:13.87,0:00:16.49,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:00:16.49,0:00:20.36,ExtraSciFi - EN,,0,0,0,,as a dear and genuine inmate of the household of man."
+Dialogue: 0,0:00:16.49,0:00:20.36,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:00:27.07,0:00:29.33,ExtraSciFi - EN,,0,0,0,,Those are the words of William Wordsworth,
-Dialogue: 0,0:00:29.38,0:00:32.46,ExtraSciFi - EN,,0,0,0,,and they are essential to understanding Frankenstein
-Dialogue: 0,0:00:32.47,0:00:34.43,ExtraSciFi - EN,,0,0,0,,and to understanding science fiction,
+Dialogue: 0,0:00:27.07,0:00:29.33,ExtraSciFi - 中文,,0,0,0,,这些话出自威廉·华兹华斯
+Dialogue: 0,0:00:29.33,0:00:32.46,ExtraSciFi - EN,,0,0,0,,and they are essential to understanding Frankenstein
+Dialogue: 0,0:00:29.33,0:00:32.46,ExtraSciFi - 中文,,0,0,0,,它们对于理解《弗兰肯斯坦》以及科幻很重要
+Dialogue: 0,0:00:32.46,0:00:34.43,ExtraSciFi - EN,,0,0,0,,and to understanding science fiction,
+Dialogue: 0,0:00:32.46,0:00:34.43,ExtraSciFi - 中文,,0,0,0,,它们对于理解《弗兰肯斯坦》以及科幻很重要
 Dialogue: 0,0:00:34.47,0:00:39.10,ExtraSciFi - EN,,0,0,0,,because to understand Frankenstein, and thus to understand the origins of sci-fi,
+Dialogue: 0,0:00:34.47,0:00:39.10,ExtraSciFi - 中文,,0,0,0,,因为要理解《弗兰肯斯坦》，进而理解科幻的起源
 Dialogue: 0,0:00:39.10,0:00:42.97,ExtraSciFi - EN,,0,0,0,,we must first understand the movement and the period they came from.
+Dialogue: 0,0:00:39.10,0:00:42.97,ExtraSciFi - 中文,,0,0,0,,我们必须首先理解诞生它们的运动和时代
 Dialogue: 0,0:00:42.97,0:00:45.48,ExtraSciFi - EN,,0,0,0,,We have to understand the Romantics.
+Dialogue: 0,0:00:42.97,0:00:45.48,ExtraSciFi - 中文,,0,0,0,,我们需要理解浪漫主义
 Dialogue: 0,0:00:45.52,0:00:47.91,ExtraSciFi - EN,,0,0,0,,We'll return to Wordsworth's words in a moment,
+Dialogue: 0,0:00:45.52,0:00:47.91,ExtraSciFi - 中文,,0,0,0,,我们待会还会回到华兹华斯的句子
 Dialogue: 0,0:00:47.91,0:00:49.68,ExtraSciFi - EN,,0,0,0,,but first, let's set the scene.
+Dialogue: 0,0:00:47.91,0:00:49.68,ExtraSciFi - 中文,,0,0,0,,不过让我们首先了解一下背景
 Dialogue: 0,0:00:49.74,0:00:52.04,ExtraSciFi - EN,,0,0,0,,It's the beginning of the 19th century.
-Dialogue: 0,0:00:52.04,0:00:54.92,ExtraSciFi - EN,,0,0,0,,The enlightenment and the age of reason have ushered
-Dialogue: 0,0:00:54.92,0:00:59.10,ExtraSciFi - EN,,0,0,0,,in a time of rapid industrialization and true modern science.
+Dialogue: 0,0:00:49.74,0:00:52.04,ExtraSciFi - 中文,,0,0,0,,那是19世纪初
+Dialogue: 0,0:00:52.04,0:00:55.00,ExtraSciFi - EN,,0,0,0,,The Enlightenment and the Age of Reason have ushered in
+Dialogue: 0,0:00:52.04,0:00:55.00,ExtraSciFi - 中文,,0,0,0,,启蒙运动和理性时代已经开创了
+Dialogue: 0,0:00:55.00,0:00:59.10,ExtraSciFi - EN,,0,0,0,,a time of rapid industrialization and true modern science.
+Dialogue: 0,0:00:55.00,0:00:59.10,ExtraSciFi - 中文,,0,0,0,,一个快速工业化和真正现代科学的时期
 Dialogue: 0,0:00:59.10,0:01:01.52,ExtraSciFi - EN,,0,0,0,,The pace of world is speeding up.
-Dialogue: 0,0:01:01.52,0:01:04.99,ExtraSciFi - EN,,0,0,0,,Every day sees new innovations and new discoveries 
+Dialogue: 0,0:00:59.10,0:01:01.52,ExtraSciFi - 中文,,0,0,0,,世界发展日益迅速
+Dialogue: 0,0:01:01.52,0:01:04.99,ExtraSciFi - EN,,0,0,0,,Every day sees new innovations and new discoveries
+Dialogue: 0,0:01:01.52,0:01:04.99,ExtraSciFi - 中文,,0,0,0,,每天都有新的创造和发现
 Dialogue: 0,0:01:05.00,0:01:07.04,ExtraSciFi - EN,,0,0,0,,about the very nature of our existence.
+Dialogue: 0,0:01:05.00,0:01:07.04,ExtraSciFi - 中文,,0,0,0,,同我们存在的本质相关
 Dialogue: 0,0:01:07.04,0:01:11.02,ExtraSciFi - EN,,0,0,0,,For the first time, humanity feels as though it can discover truth,
+Dialogue: 0,0:01:07.04,0:01:11.02,ExtraSciFi - 中文,,0,0,0,,人类第一次感到自己好像能发现真理
 Dialogue: 0,0:01:11.02,0:01:12.81,ExtraSciFi - EN,,0,0,0,,really discover truth,
+Dialogue: 0,0:01:11.02,0:01:12.81,ExtraSciFi - 中文,,0,0,0,,真正地发现真理
 Dialogue: 0,0:01:12.81,0:01:15.58,ExtraSciFi - EN,,0,0,0,,not simply inherit it from divine revelation
-Dialogue: 0,0:01:15.58,0:01:19.03,ExtraSciFi - EN,,0,0,0,,or take esoteric stabs at it through the realm of philosophy
+Dialogue: 0,0:01:12.81,0:01:15.58,ExtraSciFi - 中文,,0,0,0,,而不是简单地从神启中继承
+Dialogue: 0,0:01:15.58,0:01:19.03,ExtraSciFi - EN,,0,0,0,,or take esoteric stabs at it through the realm of philosophy.
+Dialogue: 0,0:01:15.58,0:01:19.03,ExtraSciFi - 中文,,0,0,0,,或者是在哲学领域里
 Dialogue: 0,0:01:19.09,0:01:21.23,ExtraSciFi - EN,,0,0,0,,The possibilities seem endless,
+Dialogue: 0,0:01:19.09,0:01:21.23,ExtraSciFi - 中文,,0,0,0,,似乎有无限可能
 Dialogue: 0,0:01:21.29,0:01:23.96,ExtraSciFi - EN,,0,0,0,,and yet, those advances come with a price.
+Dialogue: 0,0:01:21.29,0:01:23.96,ExtraSciFi - 中文,,0,0,0,,然而，这样的发展也伴随了代价
 Dialogue: 0,0:01:24.01,0:01:25.87,ExtraSciFi - EN,,0,0,0,,Haze hangs over London.
-Dialogue: 0,0:01:25.87,0:01:30.72,ExtraSciFi - EN,,0,0,0,,The Thames reeks with fetid sewage and the pollution of the new Industrial age.
+Dialogue: 0,0:01:24.01,0:01:25.87,ExtraSciFi - 中文,,0,0,0,,雾霾笼罩着伦敦
+Dialogue: 0,0:01:25.87,0:01:30.72,ExtraSciFi - EN,,0,0,0,,The Thames reeks with fetid sewage and the pollution of the new Industrial Age.
+Dialogue: 0,0:01:25.87,0:01:30.72,ExtraSciFi - 中文,,0,0,0,,新工业时代的污水和垃圾，让泰晤士河散发着恶臭
 Dialogue: 0,0:01:30.76,0:01:33.09,ExtraSciFi - EN,,0,0,0,,Cities cram together millions,
+Dialogue: 0,0:01:30.76,0:01:33.09,ExtraSciFi - 中文,,0,0,0,,数百万的人拥挤在城市中
 Dialogue: 0,0:01:33.09,0:01:35.01,ExtraSciFi - EN,,0,0,0,,and the workhouses and the factories
+Dialogue: 0,0:01:33.09,0:01:35.01,ExtraSciFi - 中文,,0,0,0,,救济院和工厂里
 Dialogue: 0,0:01:35.01,0:01:38.83,ExtraSciFi - EN,,0,0,0,,leave many living short, miserable, unfulfilling lives.
+Dialogue: 0,0:01:35.01,0:01:38.83,ExtraSciFi - 中文,,0,0,0,,有许多人过着短暂、悲惨和难过的生活
 Dialogue: 0,0:01:38.86,0:01:41.00,ExtraSciFi - EN,,0,0,0,,Cold reason and calculation
+Dialogue: 0,0:01:38.86,0:01:41.00,ExtraSciFi - 中文,,0,0,0,,冰冷的理性和思考
 Dialogue: 0,0:01:41.00,0:01:44.48,ExtraSciFi - EN,,0,0,0,,have replaced compassion and empathy as the virtues of the day.
+Dialogue: 0,0:01:41.00,0:01:44.48,ExtraSciFi - 中文,,0,0,0,,取代怜悯与同情，成为了当时的美德
 Dialogue: 0,0:01:44.52,0:01:47.98,ExtraSciFi - EN,,0,0,0,,It was in this milieu that Romanticism grew.
+Dialogue: 0,0:01:44.52,0:01:47.98,ExtraSciFi - 中文,,0,0,0,,正是在这样的环境下，浪漫主义萌生了
 Dialogue: 0,0:01:47.98,0:01:51.93,ExtraSciFi - EN,,0,0,0,,Romanticism was a response from artists scattered across Europe
+Dialogue: 0,0:01:47.98,0:01:51.93,ExtraSciFi - 中文,,0,0,0,,浪漫主义，是分散在欧洲各地的艺术家
 Dialogue: 0,0:01:51.93,0:01:55.31,ExtraSciFi - EN,,0,0,0,,to what they saw as the dehumanising effects of an era
+Dialogue: 0,0:01:51.93,0:01:55.31,ExtraSciFi - 中文,,0,0,0,,对于一个时代去人性化的影响
 Dialogue: 0,0:01:55.31,0:02:00.20,ExtraSciFi - EN,,0,0,0,,of mass-production, rigid logic and the reduction of lives to economic worth.
+Dialogue: 0,0:01:55.31,0:02:00.20,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:02:00.28,0:02:02.50,ExtraSciFi - EN,,0,0,0,,They wanted to rebel against this,
+Dialogue: 0,0:02:00.28,0:02:02.50,ExtraSciFi - 中文,,0,0,0,,他们想反抗这些
 Dialogue: 0,0:02:02.50,0:02:06.28,ExtraSciFi - EN,,0,0,0,,to restore the value of emotion, and reignite us with passion,
+Dialogue: 0,0:02:02.50,0:02:06.28,ExtraSciFi - 中文,,0,0,0,,恢复感情的价值，重燃我们的热情
 Dialogue: 0,0:02:06.33,0:02:10.40,ExtraSciFi - EN,,0,0,0,,to tear down the rules and the formal order that constrained art,
+Dialogue: 0,0:02:06.33,0:02:10.40,ExtraSciFi - 中文,,0,0,0,,冲破那些束缚艺术的规则和传统秩序，
 Dialogue: 0,0:02:10.40,0:02:13.50,ExtraSciFi - EN,,0,0,0,,and find, once again, the majesty in nature,
+Dialogue: 0,0:02:10.40,0:02:13.50,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:02:13.58,0:02:18.61,ExtraSciFi - EN,,0,0,0,,and it is from this point in Western civilization that Frankenstein emerges.
+Dialogue: 0,0:02:13.58,0:02:18.61,ExtraSciFi - 中文,,0,0,0,,《弗兰肯斯坦》就出现在西方文明的这个时间点
 Dialogue: 0,0:02:18.66,0:02:20.24,ExtraSciFi - EN,,0,0,0,,Time and again in the book,
+Dialogue: 0,0:02:18.66,0:02:20.24,ExtraSciFi - 中文,,0,0,0,,我们在书中屡次
 Dialogue: 0,0:02:20.24,0:02:23.56,ExtraSciFi - EN,,0,0,0,,we encounter great and breathtaking scenes of nature.
+Dialogue: 0,0:02:20.24,0:02:23.56,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:02:23.60,0:02:27.07,ExtraSciFi - EN,,0,0,0,,We find ourselves reading about strange and exciting places,
+Dialogue: 0,0:02:23.60,0:02:27.07,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:02:27.07,0:02:29.59,ExtraSciFi - EN,,0,0,0,,ranging from the Alps, to the Arctic ice.
+Dialogue: 0,0:02:27.07,0:02:29.59,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:02:29.68,0:02:30.44,ExtraSciFi - EN,,0,0,0,,Check this out:
+Dialogue: 0,0:02:29.68,0:02:30.44,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:02:30.62,0:02:34.25,ExtraSciFi - EN,,0,0,0,,"It was nearly noon when I arrived at the top of the ascent.
+Dialogue: 0,0:02:30.62,0:02:34.25,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:02:34.32,0:02:38.70,ExtraSciFi - EN,,0,0,0,,For some time, I sat upon the rock that overlooks the sea of ice.
+Dialogue: 0,0:02:34.32,0:02:38.70,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:02:38.76,0:02:42.09,ExtraSciFi - EN,,0,0,0,,A mist covered both that and the surrounding mountains.
+Dialogue: 0,0:02:38.76,0:02:42.09,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:02:42.09,0:02:44.81,ExtraSciFi - EN,,0,0,0,,Presently, a breeze dissipated the cloud,
+Dialogue: 0,0:02:42.09,0:02:44.81,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:02:44.81,0:02:47.06,ExtraSciFi - EN,,0,0,0,,and I descended upon the glacier.
+Dialogue: 0,0:02:44.81,0:02:47.06,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:02:47.18,0:02:48.80,ExtraSciFi - EN,,0,0,0,,The surface is very uneven,
+Dialogue: 0,0:02:47.18,0:02:48.80,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:02:48.80,0:02:52.86,ExtraSciFi - EN,,0,0,0,,rising high like the waves of a troubled sea, descending low,
+Dialogue: 0,0:02:48.80,0:02:52.86,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:02:52.86,0:02:55.68,ExtraSciFi - EN,,0,0,0,,and interspersed by rifts that sink deep."
+Dialogue: 0,0:02:52.86,0:02:55.68,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:02:55.89,0:02:59.72,ExtraSciFi - EN,,0,0,0,,It is in places like these that we find the sublime,
+Dialogue: 0,0:02:55.89,0:02:59.72,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:02:59.80,0:03:04.49,ExtraSciFi - EN,,0,0,0,,that concept most essential to both Romanticism and Science Fiction.
+Dialogue: 0,0:02:59.80,0:03:04.49,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:03:04.49,0:03:08.12,ExtraSciFi - EN,,0,0,0,,It is in these places that we are over-awed by nature.
+Dialogue: 0,0:03:04.49,0:03:08.12,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:03:08.15,0:03:10.41,ExtraSciFi - EN,,0,0,0,,And with that awe comes realisation,
+Dialogue: 0,0:03:08.15,0:03:10.41,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:03:10.41,0:03:13.53,ExtraSciFi - EN,,0,0,0,,about the self, about our place in the universe.
+Dialogue: 0,0:03:10.41,0:03:13.53,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:03:13.53,0:03:16.25,ExtraSciFi - EN,,0,0,0,,It's what science fiction will continue to do with
+Dialogue: 0,0:03:13.53,0:03:16.25,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:03:16.27,0:03:20.40,ExtraSciFi - EN,,0,0,0,,swirling galaxies, alien landscapes, and gleaming pulsars.
+Dialogue: 0,0:03:16.27,0:03:20.40,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:03:20.51,0:03:23.35,ExtraSciFi - EN,,0,0,0,,The sublime transports us and provides to us
+Dialogue: 0,0:03:20.51,0:03:23.35,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:03:23.35,0:03:25.74,ExtraSciFi - EN,,0,0,0,,the moment of overwhelming realisation that
+Dialogue: 0,0:03:23.35,0:03:25.74,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:03:25.74,0:03:30.16,ExtraSciFi - EN,,0,0,0,,no matter how capable, no matter how technologically advanced we become,
+Dialogue: 0,0:03:25.74,0:03:30.16,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:03:30.16,0:03:35.75,ExtraSciFi - EN,,0,0,0,,the universe will always remain infinitely more vast and infinitely more complex.\N
+Dialogue: 0,0:03:30.16,0:03:35.75,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:03:35.84,0:03:38.43,ExtraSciFi - EN,,0,0,0,,No matter how much we come to understand,
+Dialogue: 0,0:03:35.84,0:03:38.43,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:03:38.43,0:03:42.79,ExtraSciFi - EN,,0,0,0,,it will serve as a reminder that there is always more to explore.
+Dialogue: 0,0:03:38.43,0:03:42.79,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:03:42.89,0:03:45.52,ExtraSciFi - EN,,0,0,0,,Frankenstein also overturns all the rules.
+Dialogue: 0,0:03:42.89,0:03:45.52,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:03:45.52,0:03:48.00,ExtraSciFi - EN,,0,0,0,,It uses a wild framing device.
+Dialogue: 0,0:03:45.52,0:03:48.00,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:03:48.00,0:03:50.91,ExtraSciFi - EN,,0,0,0,,It uses science to tell a horror story.
+Dialogue: 0,0:03:48.00,0:03:50.91,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:03:50.97,0:03:52.92,ExtraSciFi - EN,,0,0,0,,That had never happened before.
+Dialogue: 0,0:03:50.97,0:03:52.92,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:03:52.97,0:03:53.29,ExtraSciFi - EN,,0,0,0,,HECK
+Dialogue: 0,0:03:52.97,0:03:53.29,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:03:53.29,0:03:55.96,ExtraSciFi - EN,,0,0,0,,Even the fact that the story was written by a woman
+Dialogue: 0,0:03:53.29,0:03:55.96,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:03:55.96,0:03:58.48,ExtraSciFi - EN,,0,0,0,,and, eventually, published under her own name,
+Dialogue: 0,0:03:55.96,0:03:58.48,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:03:58.48,0:04:00.24,ExtraSciFi - EN,,0,0,0,,bucks the rules of the age.
+Dialogue: 0,0:03:58.48,0:04:00.24,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:04:00.33,0:04:04.99,ExtraSciFi - EN,,0,0,0,,But the book also embraces passion, with characters like the scientist, Victor.
+Dialogue: 0,0:04:00.33,0:04:04.99,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:04:05.05,0:04:10.01,ExtraSciFi - EN,,0,0,0,,Where the typical scientist character is often portrayed as logical and unemotional,
+Dialogue: 0,0:04:05.05,0:04:10.01,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:04:10.01,0:04:12.09,ExtraSciFi - EN,,0,0,0,,Victor is awash in feeling.
+Dialogue: 0,0:04:10.01,0:04:12.09,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:04:12.09,0:04:15.05,ExtraSciFi - EN,,0,0,0,,From the death of his mother, to his ascent up the Alps,
+Dialogue: 0,0:04:12.09,0:04:15.05,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:04:15.05,0:04:19.44,ExtraSciFi - EN,,0,0,0,,we see Victor being open to expressing his sorrow and his regret,
+Dialogue: 0,0:04:15.05,0:04:19.44,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:04:19.44,0:04:22.53,ExtraSciFi - EN,,0,0,0,,his anger and his fear, all of it without hesitation.
+Dialogue: 0,0:04:19.44,0:04:22.53,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:04:22.58,0:04:25.15,ExtraSciFi - EN,,0,0,0,,In fact, the characters of Victor and the monster
+Dialogue: 0,0:04:22.58,0:04:25.15,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:04:25.15,0:04:28.08,ExtraSciFi - EN,,0,0,0,,also embody another aspect of the Romantic idea.
+Dialogue: 0,0:04:25.15,0:04:28.08,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:04:28.14,0:04:31.39,ExtraSciFi - EN,,0,0,0,,They embody the idea of the Heroic Individual.
+Dialogue: 0,0:04:28.14,0:04:31.39,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:04:31.50,0:04:33.79,ExtraSciFi - EN,,0,0,0,,Not heroic in the way we think of it today
+Dialogue: 0,0:04:31.50,0:04:33.79,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:04:33.79,0:04:36.62,ExtraSciFi - EN,,0,0,0,,but rather, heroic in the sense of the individual
+Dialogue: 0,0:04:33.79,0:04:36.62,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:04:36.62,0:04:39.47,ExtraSciFi - EN,,0,0,0,,being able to do great, earth-shaking things,
+Dialogue: 0,0:04:36.62,0:04:39.47,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:04:39.47,0:04:44.94,ExtraSciFi - EN,,0,0,0,,if they commit their entire will, their entire being and their entire passion to it.
+Dialogue: 0,0:04:39.47,0:04:44.94,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:04:45.04,0:04:50.08,ExtraSciFi - EN,,0,0,0,,In his monomania, Victor does something that no man should be able to do.
+Dialogue: 0,0:04:45.04,0:04:50.08,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:04:50.14,0:04:51.98,ExtraSciFi - EN,,0,0,0,,He overturns death.
+Dialogue: 0,0:04:50.14,0:04:51.98,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:04:52.11,0:04:54.39,ExtraSciFi - EN,,0,0,0,,Today we would think of this as the project of
+Dialogue: 0,0:04:52.11,0:04:54.39,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:04:54.39,0:04:56.60,ExtraSciFi - EN,,0,0,0,,some shadowy government organisation
+Dialogue: 0,0:04:54.39,0:04:56.60,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:04:56.60,0:04:59.96,ExtraSciFi - EN,,0,0,0,,or a secretive lab employing hundreds of scientists.
+Dialogue: 0,0:04:56.60,0:04:59.96,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:05:00.01,0:05:03.66,ExtraSciFi - EN,,0,0,0,,But Victor Frankenstein overturns death by himself,
+Dialogue: 0,0:05:00.01,0:05:03.66,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:05:03.66,0:05:07.82,ExtraSciFi - EN,,0,0,0,,by sheer force of will and the impossible intensity of his drive.
+Dialogue: 0,0:05:03.66,0:05:07.82,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:05:07.90,0:05:10.45,ExtraSciFi - EN,,0,0,0,,This idea of the Heroic Individual,
+Dialogue: 0,0:05:07.90,0:05:10.45,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:05:10.45,0:05:13.61,ExtraSciFi - EN,,0,0,0,,the special person who can change the fate of the galaxy
+Dialogue: 0,0:05:10.45,0:05:13.61,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:05:13.61,0:05:15.97,ExtraSciFi - EN,,0,0,0,,simply by their drive and their passion,
+Dialogue: 0,0:05:13.61,0:05:15.97,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:05:15.97,0:05:18.40,ExtraSciFi - EN,,0,0,0,,has taken deep roots in this genre,
+Dialogue: 0,0:05:15.97,0:05:18.40,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:05:18.40,0:05:22.59,ExtraSciFi - EN,,0,0,0,,and has spread out from this inception point to works even being published today.
+Dialogue: 0,0:05:18.40,0:05:22.59,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:05:22.69,0:05:26.88,ExtraSciFi - EN,,0,0,0,,Victor's scientific hubris too, is a product of the Romantic tradition.
+Dialogue: 0,0:05:22.69,0:05:26.88,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:05:26.96,0:05:29.20,ExtraSciFi - EN,,0,0,0,,This idea that it's foolhardy to think that
+Dialogue: 0,0:05:26.96,0:05:29.20,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:05:29.20,0:05:32.30,ExtraSciFi - EN,,0,0,0,,you could truly overturn the fundamental laws of nature,
+Dialogue: 0,0:05:29.20,0:05:32.30,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:05:32.30,0:05:35.38,ExtraSciFi - EN,,0,0,0,,and that it's dangerous to follow a narrow chain of logic
+Dialogue: 0,0:05:32.30,0:05:35.38,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:05:35.38,0:05:37.80,ExtraSciFi - EN,,0,0,0,,to the exclusion of all other considerations,
+Dialogue: 0,0:05:35.38,0:05:37.80,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:05:37.84,0:05:41.96,ExtraSciFi - EN,,0,0,0,,those ideas are part of that Romantic rebellion against the enlightenment,
+Dialogue: 0,0:05:37.84,0:05:41.96,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:05:41.96,0:05:45.21,ExtraSciFi - EN,,0,0,0,,and against some of the darker aspects of industrialization,
+Dialogue: 0,0:05:41.96,0:05:45.21,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:05:45.21,0:05:49.39,ExtraSciFi - EN,,0,0,0,,where the acquisition of wealth was considered more important than its cost.
+Dialogue: 0,0:05:45.21,0:05:49.39,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:05:49.50,0:05:51.72,ExtraSciFi - EN,,0,0,0,,And here's where I want to get back to Wordsworth,
+Dialogue: 0,0:05:49.50,0:05:51.72,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:05:51.81,0:05:55.58,ExtraSciFi - EN,,0,0,0,,because today, it's easy to simply write off the Romantics' objection
+Dialogue: 0,0:05:51.81,0:05:55.58,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:05:55.58,0:05:57.68,ExtraSciFi - EN,,0,0,0,,to the enlightenment or industrialization
+Dialogue: 0,0:05:55.58,0:05:57.68,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:05:57.68,0:06:01.18,ExtraSciFi - EN,,0,0,0,,as simply being anti-science or anti-technology.
+Dialogue: 0,0:05:57.68,0:06:01.18,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:06:01.23,0:06:04.83,ExtraSciFi - EN,,0,0,0,,But that would be a simplistic reduction, far from the truth.
+Dialogue: 0,0:06:01.23,0:06:04.83,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:06:04.98,0:06:08.27,ExtraSciFi - EN,,0,0,0,,To the Romantics, science was a fascinating marvel,
+Dialogue: 0,0:06:04.98,0:06:08.27,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:06:08.27,0:06:11.65,ExtraSciFi - EN,,0,0,0,,and its discoveries bounded on magic made real.
+Dialogue: 0,0:06:08.27,0:06:11.65,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:06:11.76,0:06:13.71,ExtraSciFi - EN,,0,0,0,,Science was a powerful thing,
+Dialogue: 0,0:06:11.76,0:06:13.71,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:06:13.71,0:06:16.75,ExtraSciFi - EN,,0,0,0,,a joy and a wonder that we should all partake in,
+Dialogue: 0,0:06:13.71,0:06:16.75,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:06:16.75,0:06:21.02,ExtraSciFi - EN,,0,0,0,,not just as some abstract papers or slow calculations in a lab,
+Dialogue: 0,0:06:16.75,0:06:21.02,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:06:21.02,0:06:23.56,ExtraSciFi - EN,,0,0,0,,but as something that should ignite our passions.
+Dialogue: 0,0:06:21.02,0:06:23.56,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:06:23.65,0:06:25.24,ExtraSciFi - EN,,0,0,0,,Let's look at that quote again.
+Dialogue: 0,0:06:23.65,0:06:25.24,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:06:25.32,0:06:27.25,ExtraSciFi - EN,,0,0,0,,"If the time should ever come when,
+Dialogue: 0,0:06:25.32,0:06:27.25,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:06:27.25,0:06:30.54,ExtraSciFi - EN,,0,0,0,,what is now called science, thus familiarised to men,
+Dialogue: 0,0:06:27.25,0:06:30.54,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:06:30.54,0:06:34.47,ExtraSciFi - EN,,0,0,0,,shall be ready to put on, as it were, a form of flesh and blood,
+Dialogue: 0,0:06:30.54,0:06:34.47,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:06:34.47,0:06:38.63,ExtraSciFi - EN,,0,0,0,,the Poet will lend his divine spirit to aid the transfiguration,
+Dialogue: 0,0:06:34.47,0:06:38.63,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:06:38.63,0:06:41.16,ExtraSciFi - EN,,0,0,0,,and will welcome the Being thus produced,
+Dialogue: 0,0:06:38.63,0:06:41.16,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:06:41.16,0:06:44.80,ExtraSciFi - EN,,0,0,0,,as a dear and genuine inmate of the household of man."
+Dialogue: 0,0:06:41.16,0:06:44.80,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:06:44.96,0:06:46.40,ExtraSciFi - EN,,0,0,0,,Wordsworth is saying that,
+Dialogue: 0,0:06:44.96,0:06:46.40,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:06:46.41,0:06:50.85,ExtraSciFi - EN,,0,0,0,,if science is ever to shrug off the garb of being academic and remote,
+Dialogue: 0,0:06:46.41,0:06:50.85,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:06:50.85,0:06:53.84,ExtraSciFi - EN,,0,0,0,,and instead become something that everyone can care about,
+Dialogue: 0,0:06:50.85,0:06:53.84,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:06:53.84,0:06:57.10,ExtraSciFi - EN,,0,0,0,,that every person can be inspired and excited by?
+Dialogue: 0,0:06:53.84,0:06:57.10,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:06:57.16,0:06:59.34,ExtraSciFi - EN,,0,0,0,,It will be with the help of the Poet.
+Dialogue: 0,0:06:57.16,0:06:59.34,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:06:59.41,0:07:01.38,ExtraSciFi - EN,,0,0,0,,Or, in this case, the Writer.
+Dialogue: 0,0:06:59.41,0:07:01.38,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:07:01.55,0:07:03.98,ExtraSciFi - EN,,0,0,0,,And that is what science fiction does.
+Dialogue: 0,0:07:01.55,0:07:03.98,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:07:04.06,0:07:06.43,ExtraSciFi - EN,,0,0,0,,The great goal of science fiction is to
+Dialogue: 0,0:07:04.06,0:07:06.43,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:07:06.43,0:07:08.46,ExtraSciFi - EN,,0,0,0,,strip away the technical details
+Dialogue: 0,0:07:06.43,0:07:08.46,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:07:08.46,0:07:12.01,ExtraSciFi - EN,,0,0,0,,and deliver to us the heart, the meaning in our science.
+Dialogue: 0,0:07:08.46,0:07:12.01,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:07:12.10,0:07:15.76,ExtraSciFi - EN,,0,0,0,,Even the hardest, most technical sci-fi you can find
+Dialogue: 0,0:07:12.10,0:07:15.76,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:07:15.76,0:07:20.04,ExtraSciFi - EN,,0,0,0,,uses the rigor of science and engineering to get us to dream.
+Dialogue: 0,0:07:15.76,0:07:20.04,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:07:20.11,0:07:22.84,ExtraSciFi - EN,,0,0,0,,To think of where those fields might take us.
+Dialogue: 0,0:07:20.11,0:07:22.84,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:07:22.97,0:07:28.51,ExtraSciFi - EN,,0,0,0,,This great goal is why Romanticism still holds such a fascination for sci-fi authors.
+Dialogue: 0,0:07:22.97,0:07:28.51,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:07:28.60,0:07:33.09,ExtraSciFi - EN,,0,0,0,,It's why Blake, Shelley, Coleridge, Byron, Wordsworth and Keats,
+Dialogue: 0,0:07:28.60,0:07:33.09,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:07:33.09,0:07:36.51,ExtraSciFi - EN,,0,0,0,,are some of the most referenced figures in the science fiction canon.
+Dialogue: 0,0:07:33.09,0:07:36.51,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:07:36.62,0:07:41.60,ExtraSciFi - EN,,0,0,0,,And, it is this Romantic project, that Frankenstein set into motion.
+Dialogue: 0,0:07:36.62,0:07:41.60,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:07:41.72,0:07:45.44,ExtraSciFi - EN,,0,0,0,,Science fiction writers continue that project even today,
+Dialogue: 0,0:07:41.72,0:07:45.44,ExtraSciFi - 中文,,0,0,0,,
 Dialogue: 0,0:07:45.46,0:07:50.97,ExtraSciFi - EN,,0,0,0,,and their continued work will inspire the science, and the scientists, of tomorrow.
+Dialogue: 0,0:07:45.46,0:07:50.97,ExtraSciFi - 中文,,0,0,0,,
